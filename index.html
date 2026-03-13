@@ -376,6 +376,20 @@
       backdrop-filter: blur(8px);
     }
 
+    @media (max-width: 768px) {
+      .modal-overlay {
+        padding: 0;
+        align-items: flex-start;
+      }
+      .modal {
+        width: 100%;
+        max-height: 100vh;
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+      }
+    }
+
     .modal-overlay.open {
       opacity: 1;
       pointer-events: all;
@@ -638,6 +652,11 @@
   </header>
 
 
+
+  <section class="hero">
+    <div class="hero-eyebrow">파리 · 3개 미술관</div>
+    <p class="hero-desc">루브르, 오르세, 오랑주리의 필수 작품 25점. 전문 지식 없이도 그림 앞에서 깊이 있는 감상을 할 수 있도록, 도슨트의 핵심만 담았습니다.</p>
+  </section>
 
   <main id="main-content"></main>
 
