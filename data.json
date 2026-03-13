@@ -1,8 +1,9 @@
 {
   "meta": {
-    "version": "1.0",
+    "version": "1.1",
     "city": "파리",
     "country": "프랑스",
+    "image_source": "Wikimedia Commons / Met Museum Open Access (Public Domain)",
     "museums": ["루브르", "오르세", "오랑주리"]
   },
   "artworks": [
@@ -17,7 +18,8 @@
       "artist": "레오나르도 다빈치",
       "year": "1503–1519",
       "style": "르네상스",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1024px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
       "docent": {
         "one_line": "세상에서 가장 유명한 미소, 그런데 왜 유명한지 아는 사람은 드물다",
         "story": "레오나르도 다빈치가 피렌체 상인의 아내 리자 게라르디니를 모델로 그린 초상화로, 4년 이상 작업했음에도 끝내 미완성으로 남겼다. 1911년 루브르에서 도난당했다가 2년 후 회수되면서 오히려 전 세계적인 유명세를 얻었다. 실제로 보면 예상보다 훨씬 작고(77×53cm), 방탄유리 뒤에 있어 거리감이 있다는 점이 많은 관람객을 당황하게 만든다.",
@@ -37,9 +39,10 @@
       "year": "기원전 130–100년경",
       "style": "헬레니즘",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aphrodite_of_Milos.jpg/800px-Aphrodite_of_Milos.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Aphrodite_of_Milos.jpg",
       "docent": {
         "one_line": "팔이 없어서 더 완벽한 조각",
-        "story": "1820년 에게해의 밀로스 섬에서 한 농부가 밭을 갈다 우연히 발견한 조각상이다. 발견 당시 이미 팔이 없는 상태였고, 원래 팔이 어떤 모습이었는지는 지금도 미스터리다. 사랑과 미의 여신 아프로디테로 추정되며, 결함이 있음에도 불구하고 오히려 상상의 여지를 남겨 '완벽한 아름다움'의 상징이 되었다.",
+        "story": "1820년 에게해의 밀로스 섬에서 한 농부가 밭을 갈다 우연히 발견한 조각상이다. 발견 당시 이미 팔이 없는 상태였고, 원래 팔이 어떤 모습이었는지는 지금도 미스터리다. 사랑과 미의 여신 아프로디테로 추정되며, 결함이 있음에도 불구하고 오히려 상상의 여지를 남겨 완벽한 아름다움의 상징이 되었다.",
         "look_for": "정면보다 살짝 옆에서 바라보면 S자로 흐르는 몸의 곡선이 더 잘 보인다. 대리석 표면의 섬세한 질감도 놓치지 말 것."
       },
       "tags": ["헬레니즘", "조각", "고대그리스", "필수"]
@@ -56,6 +59,7 @@
       "year": "기원전 190년경",
       "style": "헬레니즘",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winged_Victory_of_Samothrace.jpg/800px-Winged_Victory_of_Samothrace.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Winged_Victory_of_Samothrace.jpg",
       "docent": {
         "one_line": "머리도 팔도 없지만, 루브르에서 가장 역동적인 조각",
         "story": "승리의 여신 니케를 묘사한 이 조각은 그리스 사모트라케 섬의 신전에서 발견되었다. 머리와 두 팔이 없음에도 바람을 가르며 날아오르는 듯한 생동감이 압도적이다. 나이키(Nike) 브랜드 로고의 영감이 된 작품으로도 유명하다. 계단 꼭대기에 배치된 전시 방식 자체가 작품의 웅장함을 극대화한다.",
@@ -74,7 +78,8 @@
       "artist": "외젠 들라크루아",
       "year": "1830",
       "style": "낭만주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/800px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
       "docent": {
         "one_line": "프랑스 혁명의 에너지를 캔버스에 폭발시킨 그림",
         "story": "1830년 7월 혁명을 기념해 그린 작품으로, 자유를 상징하는 여신이 삼색기를 들고 바리케이드를 넘는 장면을 담았다. 실제 역사적 사건과 신화적 상징을 결합한 낭만주의의 걸작이다. 여신 옆에 총을 든 소년은 빅토르 위고의 소설 레미제라블 속 가브로슈의 모델이 되었다고 알려져 있다.",
@@ -93,10 +98,11 @@
       "artist": "자크 루이 다비드",
       "year": "1805–1807",
       "style": "신고전주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg/800px-Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg/1280px-Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
       "docent": {
         "one_line": "가로 10미터, 등장인물 200명, 나폴레옹이 직접 검수한 그림",
-        "story": "1804년 노트르담 대성당에서 열린 나폴레옹의 대관식을 그린 초대형 역사화다. 원래 교황이 나폴레옹에게 왕관을 씌우는 장면이어야 했지만, 나폴레옹이 교황의 손에서 왕관을 빼앗아 스스로 썼다는 일화가 유명하다. 그림 속 나폴레옹은 황후 조제핀에게 왕관을 씌워주는 장면으로 묘사되어 있는데, 이미 숨진 어머니도 관람석에 그려 넣었다.",
+        "story": "1804년 노트르담 대성당에서 열린 나폴레옹의 대관식을 그린 초대형 역사화다. 원래 교황이 나폴레옹에게 왕관을 씌우는 장면이어야 했지만, 나폴레옹이 교황의 손에서 왕관을 빼앗아 스스로 썼다는 일화가 유명하다. 그림 속에서는 황후 조제핀에게 왕관을 씌워주는 장면으로 바뀌었고, 이미 숨진 어머니도 관람석에 그려 넣었다.",
         "look_for": "그림 오른쪽 2층 관람석에 화가 다비드 자신이 스케치북을 들고 앉아 있다. 숨은그림찾기처럼 찾아보자."
       },
       "tags": ["신고전주의", "역사화", "나폴레옹", "프랑스"]
@@ -112,7 +118,8 @@
       "artist": "테오도르 제리코",
       "year": "1818–1819",
       "style": "낭만주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/800px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1280px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
       "docent": {
         "one_line": "실제 생존자를 인터뷰해서 그린 19세기의 르포르타주",
         "story": "1816년 프랑스 군함 메두사호가 난파되면서 150명이 뗏목에 탔고, 13일 후 단 15명만 생존한 실제 사건을 담았다. 제리코는 생존자를 직접 인터뷰하고 시체를 관찰하며 사실적으로 그렸다. 당시 정부의 무능함을 고발하는 작품이어서 논란이 컸고, 낭만주의 회화의 전환점이 되었다.",
@@ -131,10 +138,11 @@
       "artist": "장 오귀스트 도미니크 앵그르",
       "year": "1814",
       "style": "신고전주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jean_Auguste_Dominique_Ingres%2C_Oda_Lisi%C4%9Fi%2C_1814.jpg/800px-Jean_Auguste_Dominique_Ingres%2C_Oda_Lisi%C4%9Fi%2C_1814.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jean_Auguste_Dominique_Ingres%2C_Oda_Lisi%C4%9Fi%2C_1814.jpg/1280px-Jean_Auguste_Dominique_Ingres%2C_Oda_Lisi%C4%9Fi%2C_1814.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jean_Auguste_Dominique_Ingres%2C_Oda_Lisi%C4%9Fi%2C_1814.jpg",
       "docent": {
         "one_line": "척추뼈가 세 개 더 많은 여인, 해부학적 오류인가 의도적 왜곡인가",
-        "story": "오달리스크는 오스만 제국 황제의 후궁을 뜻한다. 앵그르는 실제 가본 적도 없는 동양의 이국적인 분위기를 상상해서 그렸다. 당시 비평가들은 등이 너무 길다고 혹평했지만, 앵그르는 아름다움을 위한 의도적 변형이었다고 주장했다. 지금은 이 '오류'가 작품의 가장 매력적인 특징이 되었다.",
+        "story": "오달리스크는 오스만 제국 황제의 후궁을 뜻한다. 앵그르는 실제로 가본 적도 없는 동양의 이국적인 분위기를 상상해서 그렸다. 당시 비평가들은 등이 너무 길다고 혹평했지만, 앵그르는 아름다움을 위한 의도적 변형이었다고 주장했다. 지금은 이 오류가 작품의 가장 매력적인 특징이 되었다.",
         "look_for": "등의 길이를 실제로 세어보자. 척추뼈가 해부학적으로 두세 개 더 있어야 가능한 비율이다. 그럼에도 어색하지 않고 우아하게 느껴지는 이유를 생각해보면 흥미롭다."
       },
       "tags": ["신고전주의", "누드", "오리엔탈리즘", "앵그르"]
@@ -151,6 +159,7 @@
       "year": "1669–1670",
       "style": "바로크",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg/800px-Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/2/20/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg",
       "docent": {
         "one_line": "루브르에서 가장 작지만 가장 집중하게 만드는 그림",
         "story": "24×21cm, 루브르 소장 회화 중 손에 꼽힐 정도로 작은 작품이다. 페르메이르는 일상의 평범한 순간을 빛과 함께 포착하는 데 탁월했다. 레이스를 뜨는 여인의 집중된 시선과 손끝, 그리고 부드러운 빛의 처리가 보는 사람도 저절로 숨을 죽이게 만든다.",
@@ -169,10 +178,11 @@
       "artist": "작자 미상",
       "year": "기원전 1754년경",
       "style": "고대 메소포타미아",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CodeOfHammurabi.jpg/800px-CodeOfHammurabi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CodeOfHammurabi.jpg/600px-CodeOfHammurabi.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/0/00/CodeOfHammurabi.jpg",
       "docent": {
         "one_line": "눈에는 눈, 이에는 이 — 인류 최초의 성문법",
-        "story": "약 3,800년 전 바빌로니아 왕 함무라비가 제정한 법전으로, 2.25m 높이의 현무암 비석에 쐐기문자로 새겨져 있다. 282개 조항으로 구성되며 계약, 임금, 상속, 형사 처벌 등을 규정했다. '눈에는 눈, 이에는 이'라는 동해보복 원칙으로 유명하지만, 실제로는 계층에 따라 처벌이 달랐다는 점이 흥미롭다.",
+        "story": "약 3,800년 전 바빌로니아 왕 함무라비가 제정한 법전으로, 2.25m 높이의 현무암 비석에 쐐기문자로 새겨져 있다. 282개 조항으로 구성되며 계약, 임금, 상속, 형사 처벌 등을 규정했다. 눈에는 눈, 이에는 이라는 동해보복 원칙으로 유명하지만, 실제로는 계층에 따라 처벌이 달랐다는 점이 흥미롭다.",
         "look_for": "비석 상단 부조를 보면 함무라비가 태양신 샤마시로부터 법전을 받는 장면이 새겨져 있다. 법의 권위를 신으로부터 부여받은 것으로 표현한 정치적 의도가 담겨 있다."
       },
       "tags": ["고대", "메소포타미아", "유물", "역사"]
@@ -188,7 +198,8 @@
       "artist": "파올로 베로네세",
       "year": "1563",
       "style": "르네상스",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paolo_Veronese_008.jpg/800px-Paolo_Veronese_008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paolo_Veronese_008.jpg/1280px-Paolo_Veronese_008.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paolo_Veronese_008.jpg",
       "docent": {
         "one_line": "모나리자 맞은편에 걸린, 루브르에서 가장 큰 그림",
         "story": "예수가 물을 포도주로 바꾼 기적을 묘사한 성경 속 장면이지만, 베로네세는 이를 16세기 베네치아 귀족의 화려한 연회로 재해석했다. 가로 9.9m에 달하는 압도적인 크기에 130명이 넘는 인물이 등장한다. 모나리자와 정면으로 마주 보고 있어서 대부분의 관람객이 등을 지고 지나치는 비운의 걸작이기도 하다.",
@@ -202,15 +213,16 @@
       "museum": "오르세",
       "city": "파리",
       "country": "프랑스",
-      "title": "별이 빛나는 밤",
+      "title": "론 강의 별이 빛나는 밤",
       "title_original": "La Nuit étoilée",
       "artist": "빈센트 반 고흐",
       "year": "1888",
       "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
       "docent": {
         "one_line": "가장 유명한 '별이 빛나는 밤'은 뉴욕에 있다. 오르세의 이 작품은 그보다 1년 앞선 버전",
-        "story": "많은 사람들이 오르세에 '그' 별이 빛나는 밤이 있다고 착각하지만, MoMA의 소용돌이치는 밤하늘 버전은 뉴욕에 있다. 오르세 소장본은 1888년 아를에서 그린 작품으로, 론 강 위로 반사되는 별빛을 담았다. 고흐가 반고갱과 함께 지내던 시절, 정신적으로 가장 격동했던 시기의 작품이다.",
+        "story": "많은 사람들이 오르세에 그 별이 빛나는 밤이 있다고 착각하지만, MoMA의 소용돌이치는 밤하늘 버전은 뉴욕에 있다. 오르세 소장본은 1888년 아를에서 그린 작품으로, 론 강 위로 반사되는 별빛을 담았다. 고흐가 고갱과 함께 지내던 시절, 정신적으로 가장 격동했던 시기의 작품이다.",
         "look_for": "강물에 반사된 별빛의 표현 방식을 보자. 소용돌이 대신 수직으로 흘러내리는 빛의 반영이 강의 흐름과 어우러진다. 고흐 특유의 두꺼운 붓질 질감이 가까이서 보면 더욱 생생하다."
       },
       "tags": ["후기인상주의", "고흐", "야경", "필수"]
@@ -226,11 +238,12 @@
       "artist": "피에르 오귀스트 르누아르",
       "year": "1876",
       "style": "인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bal_du_moulin_de_la_Galette.jpg/800px-Bal_du_moulin_de_la_Galette.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bal_du_moulin_de_la_Galette.jpg/1280px-Bal_du_moulin_de_la_Galette.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bal_du_moulin_de_la_Galette.jpg",
       "docent": {
         "one_line": "19세기 파리 청춘들의 일요일 오후",
         "story": "몽마르트르 언덕의 야외 무도회장을 그린 작품으로, 르누아르가 매주 직접 찾아가 현장에서 스케치하며 완성했다. 인상주의 특유의 빛의 표현이 가장 잘 드러난 작품 중 하나로, 나뭇잎 사이로 걸러진 햇빛이 사람들의 옷과 얼굴 위에 흩뿌려지는 장면이 탁월하다. 그림 속 인물들은 르누아르의 실제 친구들이다.",
-        "look_for": "인물들의 얼굴과 옷에 드리운 빛과 그림자의 경계가 뚜렷하지 않고 자연스럽게 섞여 있다. 이것이 인상주의의 핵심인 '순간적인 빛의 포착'이다."
+        "look_for": "인물들의 얼굴과 옷에 드리운 빛과 그림자의 경계가 뚜렷하지 않고 자연스럽게 섞여 있다. 이것이 인상주의의 핵심인 순간적인 빛의 포착이다."
       },
       "tags": ["인상주의", "르누아르", "풍속화", "파리"]
     },
@@ -245,10 +258,11 @@
       "artist": "에두아르 마네",
       "year": "1863",
       "style": "사실주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe_-_Google_Art_Project.jpg/800px-Edouard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Edouard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe_-_Google_Art_Project.jpg",
       "docent": {
         "one_line": "1863년 파리 미술계를 발칵 뒤집은 스캔들",
-        "story": "정장을 입은 남성 두 명 옆에 나체의 여성이 태연히 앉아 있는 구도가 당시 엄청난 논란을 일으켰다. 신화 속 여신이 아닌 '현실의 여성'이 나체로 등장했기 때문이다. 살롱전에서 낙선했지만 '낙선작 전시회'에 출품되어 오히려 더 큰 주목을 받았고, 근대 미술의 출발점으로 평가받는다.",
+        "story": "정장을 입은 남성 두 명 옆에 나체의 여성이 태연히 앉아 있는 구도가 당시 엄청난 논란을 일으켰다. 신화 속 여신이 아닌 현실의 여성이 나체로 등장했기 때문이다. 살롱전에서 낙선했지만 낙선작 전시회에 출품되어 오히려 더 큰 주목을 받았고, 근대 미술의 출발점으로 평가받는다.",
         "look_for": "나체 여성이 그림 밖의 관람자를 정면으로 바라보고 있다. 수줍음 없이 당당한 시선이 당시 사람들에게 얼마나 충격적이었을지 상상해보자."
       },
       "tags": ["사실주의", "마네", "스캔들", "근대미술"]
@@ -264,7 +278,8 @@
       "artist": "에드가 드가",
       "year": "1874",
       "style": "인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Edgar_Degas_-_The_Dance_Class_-_Google_Art_Project.jpg/800px-Edgar_Degas_-_The_Dance_Class_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Edgar_Degas_-_The_Dance_Class_-_Google_Art_Project.jpg/1024px-Edgar_Degas_-_The_Dance_Class_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Edgar_Degas_-_The_Dance_Class_-_Google_Art_Project.jpg",
       "docent": {
         "one_line": "발레리나를 가장 많이 그린 화가, 하지만 무대보다 연습실에 집착했다",
         "story": "드가는 평생 발레리나를 수백 점 그렸지만, 화려한 공연보다 반복적인 연습과 대기 중인 일상적 순간에 집중했다. 이 작품에서도 선생님의 지도 아래 연습하는 무용수들과 지루해하거나 긁적이는 소녀들이 함께 담겨 있다. 드가는 당시 새로운 기술이던 사진의 구도에서 영감을 받아 비대칭적이고 잘린 구도를 즐겨 사용했다.",
@@ -283,7 +298,8 @@
       "artist": "장 프랑수아 밀레",
       "year": "1857",
       "style": "사실주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/800px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
       "docent": {
         "one_line": "수확 후 남은 이삭을 줍는 가난한 여인들, 당시엔 불온한 그림이었다",
         "story": "추수가 끝난 밭에서 떨어진 이삭을 줍는 세 여인을 그린 작품이다. 당시 이삭 줍기는 가장 가난한 계층의 생존 방식이었고, 귀족과 부르주아들은 이 그림이 하층민의 단결을 부추긴다며 불편해했다. 밀레는 인물들의 얼굴을 보이지 않게 처리해 개인이 아닌 노동 그 자체를 강조했다.",
@@ -302,7 +318,8 @@
       "artist": "에두아르 마네",
       "year": "1863",
       "style": "사실주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/800px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
       "docent": {
         "one_line": "꽃다발을 받는 창부, 19세기 미술계가 외면하고 싶었던 현실",
         "story": "풀밭 위의 점심식사보다 더 큰 스캔들을 일으킨 작품이다. 티치아노의 고전적 누드화를 패러디했지만, 신화의 여신 대신 실제 파리의 창부를 그렸다. 흑인 하녀가 꽃다발을 전달하는 장면은 당시 사회의 인종과 계급 구조를 적나라하게 드러낸다. 지금은 근대 미술의 출발점으로 평가받는다.",
@@ -321,10 +338,11 @@
       "artist": "폴 세잔",
       "year": "1894–1895",
       "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Paul_C%C3%A9zanne%2C_The_Card_Players%2C_1894-95%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/800px-Paul_C%C3%A9zanne%2C_The_Card_Players%2C_1894-95%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Paul_C%C3%A9zanne%2C_The_Card_Players%2C_1894-95%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/1024px-Paul_C%C3%A9zanne%2C_The_Card_Players%2C_1894-95%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paul_C%C3%A9zanne%2C_The_Card_Players%2C_1894-95%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg",
       "docent": {
         "one_line": "2011년 카타르가 약 2,700억 원에 구매한 시리즈의 원본",
-        "story": "세잔은 카드놀이하는 사람들을 주제로 다섯 점의 연작을 그렸다. 오르세 소장본은 두 명의 농부가 마주 앉은 가장 단순하고 완성도 높은 버전이다. 세잔은 대상을 기하학적 형태로 단순화했는데, 이 접근법이 훗날 피카소의 입체주의에 직접적인 영감을 주었다. '현대 미술의 아버지'라 불리는 이유다.",
+        "story": "세잔은 카드놀이하는 사람들을 주제로 다섯 점의 연작을 그렸다. 오르세 소장본은 두 명의 농부가 마주 앉은 가장 단순하고 완성도 높은 버전이다. 세잔은 대상을 기하학적 형태로 단순화했는데, 이 접근법이 훗날 피카소의 입체주의에 직접적인 영감을 주었다.",
         "look_for": "두 인물의 자세와 시선이 완벽한 대칭을 이루지 않으면서도 균형감이 있다. 테이블의 형태도 왜곡되어 있는데, 세잔이 원근법보다 화면의 구조적 안정감을 우선시했기 때문이다."
       },
       "tags": ["후기인상주의", "세잔", "풍속화", "입체주의원형"]
@@ -340,10 +358,11 @@
       "artist": "장 프랑수아 밀레",
       "year": "1850",
       "style": "사실주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg/800px-Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg/1024px-Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg",
       "docent": {
         "one_line": "반 고흐가 평생 모사하며 흠모했던 바로 그 그림",
-        "story": "고흐는 밀레를 '아버지'라 부를 만큼 존경했고, 씨 뿌리는 사람을 여러 차례 자신의 스타일로 모사했다. 석양을 배경으로 성큼성큼 씨를 뿌리는 농부의 모습은 단순한 노동 장면이 아니라 생명과 희망의 상징으로 읽힌다. 밀레 자신도 농부 출신이었고, 농촌의 삶을 숭고하게 표현하는 것이 평생의 작업이었다.",
+        "story": "고흐는 밀레를 아버지라 부를 만큼 존경했고, 씨 뿌리는 사람을 여러 차례 자신의 스타일로 모사했다. 석양을 배경으로 성큼성큼 씨를 뿌리는 농부의 모습은 단순한 노동 장면이 아니라 생명과 희망의 상징으로 읽힌다. 밀레 자신도 농부 출신이었고, 농촌의 삶을 숭고하게 표현하는 것이 평생의 작업이었다.",
         "look_for": "인물이 화면을 대각선으로 가로지르며 강한 방향성을 만들어낸다. 석양빛이 인물의 실루엣을 강조하면서 노동에 신성한 분위기를 부여한다."
       },
       "tags": ["사실주의", "밀레", "농촌", "고흐영향"]
@@ -359,7 +378,8 @@
       "artist": "빈센트 반 고흐",
       "year": "1887",
       "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/800px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/1024px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
       "docent": {
         "one_line": "고흐가 파리에 머물던 시절, 점묘법을 실험하던 흔적",
         "story": "고흐는 파리에 머문 2년 동안 인상주의와 점묘법을 흡수하며 폭발적으로 변화했다. 이 자화상은 그 시기의 실험이 담긴 작품으로, 쇠라의 점묘법에서 영향받은 작은 붓터치들이 빽빽하게 쌓여 있다. 고흐는 가난 때문에 모델을 구하기 어려워 스스로를 모델 삼아 30점 이상의 자화상을 그렸다.",
@@ -378,10 +398,11 @@
       "artist": "클로드 모네",
       "year": "1877",
       "style": "인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Claude_Monet_-_Gare_Saint-Lazare_-_1877.jpg/800px-Claude_Monet_-_Gare_Saint-Lazare_-_1877.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Claude_Monet_-_Gare_Saint-Lazare_-_1877.jpg/1280px-Claude_Monet_-_Gare_Saint-Lazare_-_1877.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Gare_Saint-Lazare_-_1877.jpg",
       "docent": {
-        "one_line": "모네가 오르세에서 남긴 작품, 기차역 연기를 빛으로 바꾸다",
-        "story": "모네는 생 라자르 역을 주제로 12점의 연작을 그렸다. 산업화의 상징인 기차역을 택한 것이 파격적이었지만, 모네의 관심은 기차가 아니라 증기와 빛이 만들어내는 순간적인 분위기였다. 역장에게 허가를 받아 직접 역 안에서 작업했고, 심지어 기차를 늦게 출발시켜달라고 요청했다는 일화도 있다.",
+        "one_line": "기차역 연기를 빛으로 바꾼 모네, 오르세에서 만나는 유일한 모네 대표작",
+        "story": "모네는 생 라자르 역을 주제로 12점의 연작을 그렸다. 산업화의 상징인 기차역을 택한 것이 파격적이었지만, 모네의 관심은 기차가 아니라 증기와 빛이 만들어내는 순간적인 분위기였다. 역장에게 허가를 받아 직접 역 안에서 작업했고, 기차를 늦게 출발시켜달라고 요청했다는 일화도 있다.",
         "look_for": "철골 지붕 사이로 들어오는 빛과 증기가 뒤섞이는 부분을 보자. 형태보다 빛과 색채의 인상을 포착한다는 인상주의의 철학이 가장 잘 드러나는 작품 중 하나다."
       },
       "tags": ["인상주의", "모네", "도시", "연작"]
@@ -392,15 +413,16 @@
       "museum": "오랑주리",
       "city": "파리",
       "country": "프랑스",
-      "title": "수련 연작",
-      "title_original": "Les Nymphéas",
+      "title": "수련 연작 — 아침",
+      "title_original": "Les Nymphéas — Le Matin",
       "artist": "클로드 모네",
       "year": "1914–1926",
       "style": "인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/800px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
       "docent": {
         "one_line": "모네가 시력을 잃어가면서도 완성한, 오랑주리를 위해 태어난 작품",
-        "story": "모네는 말년에 백내장으로 시력을 잃어가면서도 자신의 지베르니 정원 연못을 주제로 수련 연작을 그렸다. 오랑주리의 수련은 모네가 직접 전시 공간을 설계에 참여해 타원형 두 개의 방을 360도로 감싸도록 배치했다. 총 8점, 합산 90미터에 달하는 파노라마로, 물속에 잠기는 듯한 몰입감을 준다.",
+        "story": "모네는 말년에 백내장으로 시력을 잃어가면서도 자신의 지베르니 정원 연못을 주제로 수련 연작을 그렸다. 오랑주리의 수련은 모네가 직접 전시 공간 설계에 참여해 타원형 두 개의 방을 360도로 감싸도록 배치했다. 총 8점, 합산 90미터에 달하는 파노라마로, 물속에 잠기는 듯한 몰입감을 준다.",
         "look_for": "방 안에 들어가면 천장의 자연광이 시간에 따라 달라진다. 같은 그림이지만 아침과 오후에 전혀 다른 색감으로 보이는데, 이것 자체가 모네가 의도한 경험이다. 벤치에 앉아 천천히 감상하는 것을 권한다."
       },
       "tags": ["인상주의", "모네", "수련", "필수", "몰입형"]
@@ -411,18 +433,19 @@
       "museum": "오랑주리",
       "city": "파리",
       "country": "프랑스",
-      "title": "피아노 치는 소녀들",
-      "title_original": "Jeunes filles au piano",
-      "artist": "피에르 오귀스트 르누아르",
-      "year": "1892",
+      "title": "수련 연작 — 버드나무",
+      "title_original": "Les Nymphéas — Les Saules",
+      "artist": "클로드 모네",
+      "year": "1914–1926",
       "style": "인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Auguste_Renoir_-_Girls_at_the_Piano_-_Google_Art_Project.jpg/800px-Auguste_Renoir_-_Girls_at_the_Piano_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Claude_Monet_-_Water_Lilies_-_1906.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1906.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Claude_Monet_-_Water_Lilies_-_1906.jpg",
       "docent": {
-        "one_line": "프랑스 정부가 최초로 구입한 르누아르 작품",
-        "story": "르누아르는 이 주제로 여러 버전을 그렸는데, 오랑주리 소장본은 그중 가장 완성도가 높다고 평가받는다. 부르주아 가정의 여가 문화를 따뜻하게 포착한 작품으로, 두 소녀의 친밀감과 음악에 집중하는 순간이 편안한 행복감을 전달한다. 국가가 구입한 첫 르누아르 작품이라는 역사적 의미도 있다.",
-        "look_for": "소녀들의 머리카락과 옷의 질감 표현이 정교하면서도 부드럽다. 르누아르 특유의 따뜻한 분홍빛 피부 표현이 이 작품에서도 잘 드러난다."
+        "one_line": "수면 위로 늘어진 버드나무, 경계가 사라지는 공간",
+        "story": "오랑주리의 수련 연작은 8점이 두 개의 타원형 방을 감싸고 있다. 버드나무 패널은 수면에 드리운 나무 그림자와 수련이 뒤섞이며 위아래의 경계가 모호해지는 효과를 준다. 모네는 이 작품들이 불안의 시대에 평화로운 명상 공간이 되기를 바란다고 말했다.",
+        "look_for": "어디가 수면이고 어디가 반영인지 경계를 찾아보자. 의도적으로 지평선을 없애 관람객이 공간감을 잃게 만드는 것이 모네의 전략이다."
       },
-      "tags": ["인상주의", "르누아르", "일상", "여성"]
+      "tags": ["인상주의", "모네", "수련", "필수"]
     },
 
     {
@@ -430,18 +453,19 @@
       "museum": "오랑주리",
       "city": "파리",
       "country": "프랑스",
-      "title": "세잔의 사과와 비스킷",
-      "title_original": "Pommes et biscuits",
-      "artist": "폴 세잔",
-      "year": "1879–1880",
-      "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paul_C%C3%A9zanne_-_Pommes_et_biscuits.jpg/800px-Paul_C%C3%A9zanne_-_Pommes_et_biscuits.jpg",
+      "title": "피아노 치는 소녀들",
+      "title_original": "Jeunes filles au piano",
+      "artist": "피에르 오귀스트 르누아르",
+      "year": "1892",
+      "style": "인상주의",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Auguste_Renoir_-_Girls_at_the_Piano_-_Google_Art_Project.jpg/1024px-Auguste_Renoir_-_Girls_at_the_Piano_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Auguste_Renoir_-_Girls_at_the_Piano_-_Google_Art_Project.jpg",
       "docent": {
-        "one_line": "사과 하나로 파리를 정복하겠다던 세잔, 그 사과",
-        "story": "세잔은 사과를 수없이 그렸다. 단순한 정물이 아니라 형태와 색채, 원근법을 실험하는 도구였다. 그는 여러 시점에서 본 형태를 하나의 화면에 담으려 했는데, 이것이 입체주의의 씨앗이 되었다. '나는 사과 하나로 파리를 정복하겠다'는 말을 남긴 것으로 알려져 있다.",
-        "look_for": "접시와 테이블의 원근법이 의도적으로 어긋나 있다. 수학적으로 정확한 원근법 대신 눈이 실제로 느끼는 방식으로 공간을 재구성한 세잔의 방식이다."
+        "one_line": "프랑스 정부가 최초로 구입한 르누아르 작품",
+        "story": "르누아르는 이 주제로 여러 버전을 그렸는데, 오랑주리 소장본은 그중 가장 완성도가 높다고 평가받는다. 부르주아 가정의 여가 문화를 따뜻하게 포착한 작품으로, 두 소녀의 친밀감과 음악에 집중하는 순간이 편안한 행복감을 전달한다.",
+        "look_for": "소녀들의 머리카락과 옷의 질감 표현이 정교하면서도 부드럽다. 르누아르 특유의 따뜻한 분홍빛 피부 표현이 이 작품에서도 잘 드러난다."
       },
-      "tags": ["후기인상주의", "세잔", "정물화", "사과"]
+      "tags": ["인상주의", "르누아르", "일상", "여성"]
     },
 
     {
@@ -449,18 +473,19 @@
       "museum": "오랑주리",
       "city": "파리",
       "country": "프랑스",
-      "title": "샤토 누아르",
-      "title_original": "Le Château Noir",
+      "title": "사과와 비스킷",
+      "title_original": "Pommes et biscuits",
       "artist": "폴 세잔",
-      "year": "1900–1904",
+      "year": "1879–1880",
       "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Paul_C%C3%A9zanne_-_Le_Ch%C3%A2teau_Noir.jpg/800px-Paul_C%C3%A9zanne_-_Le_Ch%C3%A2teau_Noir.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paul_C%C3%A9zanne_-_Pommes_et_biscuits.jpg/1024px-Paul_C%C3%A9zanne_-_Pommes_et_biscuits.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Paul_C%C3%A9zanne_-_Pommes_et_biscuits.jpg",
       "docent": {
-        "one_line": "세잔이 말년에 집착했던 수수께끼의 검은 성",
-        "story": "엑상프로방스 근처의 버려진 저택 샤토 누아르를 그린 작품이다. 세잔은 이 건물을 수없이 그렸고, 실제로 구입하려 했지만 실패했다. 나무와 건물이 뒤엉킨 구도는 자연과 인공물의 경계를 흐리며, 세잔 말년 작품 특유의 불안하고 강렬한 에너지가 담겨 있다.",
-        "look_for": "나무와 건물의 형태가 모두 비슷한 각도의 붓질로 처리되어 있다. 세잔에게는 나무든 돌이든 모두 기하학적 형태로 환원되는 대상이었다."
+        "one_line": "사과 하나로 파리를 정복하겠다던 세잔, 그 사과",
+        "story": "세잔은 사과를 수없이 그렸다. 단순한 정물이 아니라 형태와 색채, 원근법을 실험하는 도구였다. 그는 여러 시점에서 본 형태를 하나의 화면에 담으려 했는데, 이것이 피카소 입체주의의 씨앗이 되었다.",
+        "look_for": "접시와 테이블의 원근법이 의도적으로 어긋나 있다. 수학적으로 정확한 원근법 대신 눈이 실제로 느끼는 방식으로 공간을 재구성한 세잔의 방식이다."
       },
-      "tags": ["후기인상주의", "세잔", "풍경화", "말년작"]
+      "tags": ["후기인상주의", "세잔", "정물화", "사과"]
     },
 
     {
@@ -468,18 +493,19 @@
       "museum": "오랑주리",
       "city": "파리",
       "country": "프랑스",
-      "title": "목욕하는 여인들",
-      "title_original": "Femmes à la toilette",
-      "artist": "앙리 마티스",
-      "year": "1938",
-      "style": "야수주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matisse_-_Bathers_by_a_River.jpg/800px-Matisse_-_Bathers_by_a_River.jpg",
+      "title": "앙리 루소의 결혼식",
+      "title_original": "La Noce",
+      "artist": "앙리 루소",
+      "year": "1905",
+      "style": "나이브 아트",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Henri_Rousseau_-_La_Noce_%28The_Wedding%29_-_Google_Art_Project.jpg/1280px-Henri_Rousseau_-_La_Noce_%28The_Wedding%29_-_Google_Art_Project.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Henri_Rousseau_-_La_Noce_%28The_Wedding%29_-_Google_Art_Project.jpg",
       "docent": {
-        "one_line": "색채의 마법사 마티스, 오랑주리에서 만나는 야수주의",
-        "story": "마티스는 색채를 감정 표현의 도구로 삼았다. 사실적인 묘사보다 강렬한 색의 대비와 단순화된 형태로 보는 사람의 감각을 자극한다. 수련 연작에 압도된 후 1층으로 내려오면 만나는 마티스와 피카소, 루소 등의 컬렉션이 오랑주리의 숨겨진 보물이다.",
-        "look_for": "피부색, 배경색, 의상의 색이 사실과 전혀 다르게 표현되어 있다. 마티스에게 색은 묘사가 아니라 감정이었다. 어떤 감정이 느껴지는지 생각하며 보자."
+        "one_line": "독학으로 그린 그림, 피카소가 사랑한 순수함",
+        "story": "세관원 출신의 앙리 루소는 정식 미술 교육을 받지 않고 독학으로 그림을 그렸다. 어색한 원근법과 평면적인 묘사가 오히려 독특한 매력이 되었고, 피카소와 아방가르드 예술가들이 그의 순수함에 열광했다. 오랑주리에서 모네와 세잔 사이에 루소를 만나는 것이 이 미술관의 숨겨진 즐거움이다.",
+        "look_for": "인물들의 표정과 비례가 어딘가 어색하지만 그 어색함이 오히려 따뜻하고 친근하게 느껴진다. 전문 기술이 아닌 순수한 관찰에서 나온 시선이다."
       },
-      "tags": ["야수주의", "마티스", "색채", "20세기"]
+      "tags": ["나이브아트", "루소", "20세기", "독학"]
     }
 
   ]
