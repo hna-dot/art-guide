@@ -610,7 +610,9 @@
       .museum-section { padding: 0 20px 60px; }
       .artwork-grid { grid-template-columns: 1fr 1fr; gap: 2px; }
       .modal { grid-template-columns: 1fr; }
-      .modal-image-side { display: none; }
+      .modal-image-side { display: block; }
+      .modal-image-side img { min-height: 240px; max-height: 300px; width: 100%; object-fit: cover; }
+      .modal-content-side { padding: 28px 24px; }
       footer { padding: 32px 20px; flex-direction: column; gap: 12px; text-align: center; }
     }
   </style>
