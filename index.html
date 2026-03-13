@@ -660,7 +660,7 @@
     <div class="modal" id="modal-inner">
       <button class="modal-close" id="modal-close">✕</button>
       <div class="modal-image-side">
-        <img id="modal-img" src="" alt="" />
+        <img id="modal-img" src="" alt="" referrerpolicy="no-referrer" />
         <div class="modal-image-overlay"></div>
       </div>
       <div class="modal-content-side">
@@ -730,7 +730,7 @@
 
         card.innerHTML = `
           <div class="card-image">
-            <img src="${work.image_url}" alt="${work.title}" loading="lazy" />
+            <img src="${work.image_url}" alt="${work.title}" loading="lazy" referrerpolicy="no-referrer" />
             <div class="card-overlay">
               <div class="card-overlay-text">${work.docent.look_for.slice(0, 80)}…</div>
             </div>
