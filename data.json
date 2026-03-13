@@ -21,7 +21,7 @@
       "artist": "레오나르도 다빈치",
       "year": "1503–1519",
       "style": "르네상스",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-001.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-001.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-001.jpg",
       "docent": {
         "one_line": "세상에서 가장 유명한 미소, 그런데 왜 유명한지 아는 사람은 드물다",
@@ -45,7 +45,7 @@
       "artist": "작자 미상",
       "year": "기원전 130–100년경",
       "style": "헬레니즘",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-002.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-002.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-002.jpg",
       "docent": {
         "one_line": "팔이 없어서 더 완벽한 조각",
@@ -69,7 +69,7 @@
       "artist": "작자 미상",
       "year": "기원전 190년경",
       "style": "헬레니즘",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-003.jpg",
       "docent": {
         "one_line": "머리도 팔도 없지만, 루브르에서 가장 역동적인 조각",
@@ -93,7 +93,7 @@
       "artist": "외젠 들라크루아",
       "year": "1830",
       "style": "낭만주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-004.jpg",
       "docent": {
         "one_line": "프랑스 혁명의 에너지를 캔버스에 폭발시킨 그림",
@@ -117,7 +117,7 @@
       "artist": "자크 루이 다비드",
       "year": "1805–1807",
       "style": "신고전주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-005.jpg",
       "docent": {
         "one_line": "가로 10미터, 등장인물 200명, 나폴레옹이 직접 검수한 그림",
@@ -141,7 +141,7 @@
       "artist": "테오도르 제리코",
       "year": "1818–1819",
       "style": "낭만주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-006.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-006.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-006.jpg",
       "docent": {
         "one_line": "실제 생존자를 인터뷰해서 그린 19세기의 르포르타주",
@@ -165,7 +165,7 @@
       "artist": "장 오귀스트 도미니크 앵그르",
       "year": "1814",
       "style": "신고전주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-007.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-007.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-007.jpg",
       "docent": {
         "one_line": "척추뼈가 세 개 더 많은 여인, 해부학적 오류인가 의도적 왜곡인가",
@@ -189,7 +189,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1669–1670",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-008.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-008.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-008.jpg",
       "docent": {
         "one_line": "루브르에서 가장 작지만 가장 집중하게 만드는 그림",
@@ -213,7 +213,7 @@
       "artist": "작자 미상",
       "year": "기원전 1754년경",
       "style": "고대 메소포타미아",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-009.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-009.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-009.jpg",
       "docent": {
         "one_line": "눈에는 눈, 이에는 이 — 인류 최초의 성문법",
@@ -237,7 +237,7 @@
       "artist": "파올로 베로네세",
       "year": "1563",
       "style": "르네상스",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-010.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/louvre-010.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/louvre-010.jpg",
       "docent": {
         "one_line": "모나리자 맞은편에 걸린, 루브르에서 가장 큰 그림",
@@ -261,7 +261,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1888",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-001.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-001.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-001.jpg",
       "docent": {
         "one_line": "가장 유명한 '별이 빛나는 밤'은 뉴욕에 있다. 오르세의 이 작품은 그보다 1년 앞선 버전",
@@ -285,7 +285,7 @@
       "artist": "피에르 오귀스트 르누아르",
       "year": "1876",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-002.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-002.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-002.jpg",
       "docent": {
         "one_line": "19세기 파리 청춘들의 일요일 오후",
@@ -309,7 +309,7 @@
       "artist": "에두아르 마네",
       "year": "1863",
       "style": "사실주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-003.jpg",
       "docent": {
         "one_line": "1863년 파리 미술계를 발칵 뒤집은 스캔들",
@@ -333,7 +333,7 @@
       "artist": "에드가 드가",
       "year": "1874",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-004.jpg",
       "docent": {
         "one_line": "발레리나를 가장 많이 그린 화가, 하지만 무대보다 연습실에 집착했다",
@@ -357,7 +357,7 @@
       "artist": "장 프랑수아 밀레",
       "year": "1857",
       "style": "사실주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-005.jpg",
       "docent": {
         "one_line": "수확 후 남은 이삭을 줍는 가난한 여인들, 당시엔 불온한 그림이었다",
@@ -381,7 +381,7 @@
       "artist": "에두아르 마네",
       "year": "1863",
       "style": "사실주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-006.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-006.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-006.jpg",
       "docent": {
         "one_line": "꽃다발을 받는 창부, 19세기 미술계가 외면하고 싶었던 현실",
@@ -405,7 +405,7 @@
       "artist": "폴 세잔",
       "year": "1894–1895",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-007.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-007.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-007.jpg",
       "docent": {
         "one_line": "2011년 카타르가 약 2,700억 원에 구매한 시리즈의 원본",
@@ -429,7 +429,7 @@
       "artist": "장 프랑수아 밀레",
       "year": "1850",
       "style": "사실주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-008.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-008.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-008.jpg",
       "docent": {
         "one_line": "반 고흐가 평생 모사하며 흠모했던 바로 그 그림",
@@ -453,7 +453,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1887",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-009.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-009.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-009.jpg",
       "docent": {
         "one_line": "고흐가 파리에 머물던 시절, 점묘법을 실험하던 흔적",
@@ -477,7 +477,7 @@
       "artist": "클로드 모네",
       "year": "1877",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-010.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orsay-010.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orsay-010.jpg",
       "docent": {
         "one_line": "기차역 연기를 빛으로 바꾼 모네, 오르세에서 만나는 유일한 모네 대표작",
@@ -501,7 +501,7 @@
       "artist": "클로드 모네",
       "year": "1914–1926",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-001.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orangerie-001.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-001.jpg",
       "docent": {
         "one_line": "모네가 시력을 잃어가면서도 완성한, 오랑주리를 위해 태어난 작품",
@@ -526,7 +526,7 @@
       "artist": "클로드 모네",
       "year": "1914–1926",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-002.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orangerie-002.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-002.jpg",
       "docent": {
         "one_line": "수면 위로 늘어진 버드나무, 경계가 사라지는 공간",
@@ -550,7 +550,7 @@
       "artist": "피에르 오귀스트 르누아르",
       "year": "1892",
       "style": "인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orangerie-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-003.jpg",
       "docent": {
         "one_line": "프랑스 정부가 최초로 구입한 르누아르 작품",
@@ -574,7 +574,7 @@
       "artist": "폴 세잔",
       "year": "1879–1880",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orangerie-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-004.jpg",
       "docent": {
         "one_line": "사과 하나로 파리를 정복하겠다던 세잔, 그 사과",
@@ -598,7 +598,7 @@
       "artist": "앙리 루소",
       "year": "1905",
       "style": "나이브 아트",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/orangerie-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/orangerie-005.jpg",
       "docent": {
         "one_line": "독학으로 그린 그림, 피카소가 사랑한 순수함",
