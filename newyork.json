@@ -3,7 +3,7 @@
     "version": "1.1",
     "city": "뉴욕",
     "country": "미국",
-    "image_source": "Wikimedia Commons / Met Museum Open Access / Public Domain",
+    "image_source": "Cloudinary",
     "museums": [
       "메트로폴리탄 미술관",
       "MoMA",
@@ -20,75 +20,48 @@
       "title_original": "Washington Crossing the Delaware",
       "artist": "에마누엘 로이체",
       "year": "1851",
-      "style": "역사화 / 낭만주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg/800px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg",
+      "style": "낭만주의 / 역사화",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-001.jpg",
       "docent": {
         "one_line": "미국 건국 신화를 집약한 그림, 그러나 역사적 사실과는 거의 다르다",
-        "story": "1776년 12월 독립전쟁 중 워싱턴 장군이 얼어붙은 델라웨어 강을 야간에 건넌 역사적 사건을 그렸다. 실제로는 어둠 속에서 비밀리에 이루어진 작전이었지만, 화가는 여명 속에 당당히 서 있는 영웅적 워싱턴으로 재해석했다. 메트의 대표작 중 하나로, 3.8×6.4m의 압도적 크기로 관람객을 맞는다. 실제 장면과 다른 점이 10가지 이상 발견된다는 것도 유명하다.",
-        "look_for": "워싱턴의 발밑 얼음 조각과 뒤에 보이는 성조기. 독립선언 당시 아직 존재하지 않았던 성조기가 그림 속에 있다—낭만주의 화가들에게 역사적 정확성보다 영웅적 서사가 더 중요했다."
+        "story": "1776년 독립전쟁 중 워싱턴 장군이 얼어붙은 델라웨어 강을 야간에 건넌 역사적 사건을 그렸다. 실제로는 어둠 속 비밀 작전이었지만, 화가는 여명 속에 당당히 서 있는 영웅으로 재해석했다. 독일 화가 로이체가 독일 뒤셀도르프에서 완성한 뒤 미국에 보낸 작품으로, 가로 6.4m의 압도적인 크기가 관람객을 먼저 제압한다.",
+        "look_for": "그림 속 성조기를 찾아보자. 독립선언 당시에는 아직 존재하지 않았던 성조기가 버젓이 펄럭이고 있다. 역사적 정확성보다 영웅적 서사를 우선한 낭만주의 화가의 의도적인 선택이다."
       },
-      "tags": ["역사화", "미국", "낭만주의", "필수", "건국신화"]
+      "tags": [
+        "역사화",
+        "미국",
+        "낭만주의",
+        "필수",
+        "건국신화"
+      ]
     },
     {
       "id": "met-002",
       "museum": "메트로폴리탄 미술관",
       "city": "뉴욕",
       "country": "미국",
-      "title": "사이프러스 나무",
-      "title_original": "Wheat Field with Cypresses",
-      "artist": "빈센트 반 고흐",
-      "year": "1889",
-      "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%281889%29.jpg/800px-Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%281889%29.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%281889%29.jpg",
+      "title": "아리스토텔레스와 호메로스 흉상",
+      "title_original": "Aristotle with a Bust of Homer",
+      "artist": "렘브란트 판 레인",
+      "year": "1653",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-002.jpg",
       "docent": {
-        "one_line": "생 레미 정신병원 창문 너머로 바라본 세상을 소용돌이로 그린 고흐",
-        "story": "고흐가 프로방스의 생 레미 정신병원에 자발적으로 입원한 시기(1889)에 그린 작품이다. 병원 정원과 창문 너머 보이는 풍경에서 영감을 받았다. 하늘·밀밭·사이프러스가 모두 같은 방향의 소용돌이치는 붓질로 연결되어, 자연 전체가 하나의 에너지로 진동하는 듯한 느낌을 준다. 고흐의 정신적 상태와 예술적 절정이 겹쳐진 시기의 작품이다.",
-        "look_for": "사이프러스 나무의 불꽃 같은 형태와 그것을 표현한 수직 방향의 붓질. 하늘의 구름·밀밭·나무가 사실상 같은 리듬으로 그려져 있다는 것을 확인해보자."
+        "one_line": "1961년 당시 최고가인 230만 달러에 낙찰되어 세상을 놀라게 한 그림",
+        "story": "그리스 철학자 아리스토텔레스가 눈 먼 시인 호메로스의 흉상 위에 손을 얹고 깊이 생각에 잠긴 모습을 담았다. 시칠리아 귀족의 주문으로 그려졌으며, 지성과 명예, 부와 학문의 관계를 묵직하게 질문하는 작품이다. 아리스토텔레스가 걸친 금목걸이에는 알렉산더 대왕의 초상이 새겨져 있다.",
+        "look_for": "아리스토텔레스의 표정을 보자. 호메로스의 흉상을 어루만지며 어떤 생각을 하고 있는지—명예와 부 사이에서의 철학자의 고뇌가 렘브란트 특유의 빛과 어둠 속에 담겨 있다."
       },
-      "tags": ["후기인상주의", "고흐", "풍경화", "필수"]
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "철학",
+        "필수"
+      ]
     },
     {
       "id": "met-003",
-      "museum": "메트로폴리탄 미술관",
-      "city": "뉴욕",
-      "country": "미국",
-      "title": "막시밀리안 황제의 처형",
-      "title_original": "The Execution of Emperor Maximilian",
-      "artist": "에두아르 마네",
-      "year": "1867",
-      "style": "사실주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Edouard_Manet_-_The_Execution_of_Emperor_Maximilian.jpg/800px-Edouard_Manet_-_The_Execution_of_Emperor_Maximilian.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edouard_Manet_-_The_Execution_of_Emperor_Maximilian.jpg",
-      "docent": {
-        "one_line": "나폴레옹 3세의 실패한 외교를 고야 스타일로 고발한 마네의 정치화",
-        "story": "프랑스가 지원하여 멕시코 황제로 세운 막시밀리안이 공화파에 의해 처형된 사건을 담았다. 마네는 고야의 '5월 3일'을 의식하며 이 그림을 그렸지만, 극적인 감정 대신 담담한 기록처럼 표현했다. 나폴레옹 3세의 정치적 실패를 암시하여 전시 금지를 당했고, 캔버스가 여러 조각으로 잘려 흩어졌다가 나중에 다시 이어 붙인 흔적이 남아 있다.",
-        "look_for": "처형을 집행하는 병사들의 유니폼이 프랑스군 복장과 유사하다. 마네의 의도적인 정치적 발언이다."
-      },
-      "tags": ["사실주의", "마네", "역사화", "정치"]
-    },
-    {
-      "id": "met-004",
-      "museum": "메트로폴리탄 미술관",
-      "city": "뉴욕",
-      "country": "미국",
-      "title": "죽음의 무도",
-      "title_original": "La Primavera (춘)",
-      "artist": "루카스 크라나흐 (대)",
-      "year": "1529",
-      "style": "북방 르네상스",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lucas_Cranach_d.%C3%84._-_Das_Urteil_des_Paris_-_Metropolitan.jpg/600px-Lucas_Cranach_d.%C3%84._-_Das_Urteil_des_Paris_-_Metropolitan.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lucas_Cranach_d.%C3%84._-_Das_Urteil_des_Paris_-_Metropolitan.jpg",
-      "docent": {
-        "one_line": "루터의 절친한 친구였던 화가, 종교개혁의 이미지를 만든 사람",
-        "story": "루카스 크라나흐는 마르틴 루터의 가장 가까운 친구이자 종교개혁의 시각 언어를 만든 화가다. 루터의 초상을 반복해서 그려 프로테스탄트 이미지 형성에 기여했다. 동시에 신화적 소재를 관능적으로 그리는 이중적인 작업을 병행했는데, 이것이 당시에도 지금도 논쟁거리다. 메트의 크라나흐 컬렉션은 북방 르네상스를 이해하는 핵심 자료다.",
-        "look_for": "북방 르네상스 특유의 인물 묘사: 이탈리아 르네상스와 달리 날카롭고 선명한 윤곽선, 신체의 이상화보다 사실성에 가까운 표현이 특징이다."
-      },
-      "tags": ["북방르네상스", "크라나흐", "신화", "종교개혁"]
-    },
-    {
-      "id": "met-005",
       "museum": "메트로폴리탄 미술관",
       "city": "뉴욕",
       "country": "미국",
@@ -97,14 +70,162 @@
       "artist": "작자 미상",
       "year": "기원전 15년경",
       "style": "고대 이집트",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Metropolitan_Museum_of_Art_-_Temple_of_Dendur_3.jpg/800px-Metropolitan_Museum_of_Art_-_Temple_of_Dendur_3.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Metropolitan_Museum_of_Art_-_Temple_of_Dendur_3.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-003.jpg",
       "docent": {
         "one_line": "아스완 댐 건설로 수몰 위기에서 구출된 실제 이집트 신전이 뉴욕에",
-        "story": "아스완 하이댐 건설(1960년대)로 수몰될 위기에 처한 누비아 유적들을 유네스코가 구출 프로젝트를 진행했다. 미국이 이집트를 지원한 대가로 이 신전을 선물받아 메트로폴리탄에 통째로 옮겨 재건했다. 기원전 15년에 세워진 실제 신전이 맨해튼 한복판에 서 있는 초현실적인 경험을 할 수 있다.",
-        "look_for": "신전 벽면에 남아 있는 낙서들. 그 중 일부는 19세기 관광객들이 새긴 이름이고, 일부는 2000년 전 사람들이 남긴 것이다. 누가 누구의 것인지 찾아보자."
+        "story": "아스완 하이댐 건설로 수몰될 위기에 처한 이 신전을 미국이 이집트 지원의 대가로 선물받아 메트로폴리탄에 통째로 이전했다. 기원전 15년에 세워진 실제 신전이 맨해튼 한복판에 서 있는 초현실적인 경험을 할 수 있다. 신전 주위를 얕은 물이 감싸고, 센트럴파크를 향한 유리벽으로 자연광이 쏟아진다.",
+        "look_for": "신전 벽면의 낙서들을 찾아보자. 2000년 전 이집트인이 새긴 것과 19세기 관광객이 새긴 이름이 뒤섞여 있다. 시간을 초월한 인간의 '나 여기 왔다'는 충동이 새겨진 벽이다."
       },
-      "tags": ["고대이집트", "신전", "건축", "필수", "야외전시"]
+      "tags": [
+        "고대이집트",
+        "신전",
+        "건축",
+        "필수"
+      ]
+    },
+    {
+      "id": "met-004",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "뱃놀이",
+      "title_original": "Boating",
+      "artist": "에두아르 마네",
+      "year": "1874",
+      "style": "인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-004.jpg",
+      "docent": {
+        "one_line": "인상주의자가 아니라고 평생 주장한 마네의 가장 인상주의적인 그림",
+        "story": "마네는 자신을 인상주의자로 규정하는 것을 거부했지만, 여름 휴가 중 클로드 모네와 함께 시간을 보내며 빛과 야외를 담는 이 작품을 그렸다. 기울어진 구도, 잘려나간 화면, 납작하게 칠해진 물의 표현이 당시로서는 매우 파격적이었다. 여성 인물이 클로드 모네의 아내 카미유라는 주장도 있다.",
+        "look_for": "화면 아래쪽을 가득 채운 강물의 파란색을 보자. 원근감 없이 납작하게 칠해진 이 물이 일본 판화의 영향을 받은 마네의 실험이다."
+      },
+      "tags": [
+        "인상주의",
+        "마네",
+        "인물화"
+      ]
+    },
+    {
+      "id": "met-005",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "네 그루의 나무",
+      "title_original": "The Four Trees",
+      "artist": "클로드 모네",
+      "year": "1891",
+      "style": "인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-005.jpg",
+      "docent": {
+        "one_line": "나무가 팔릴 위기에 처하자, 모네가 직접 나무를 사서 그림을 완성했다",
+        "story": "모네는 지베르니 근처 에프트 강변의 포플러 나무들을 연작으로 그렸다. 그런데 그림을 다 완성하기 전에 마을이 나무를 경매에 내놓았고, 모네는 목재상과 협상해 자신이 그림을 완성할 때까지 벌목을 미뤄달라고 부탁하며 비용까지 지불했다. 나무의 수직 리듬과 수면 반영이 만들어내는 패턴이 추상에 가깝다.",
+        "look_for": "나무와 그 반영이 만들어내는 수직 리듬을 따라가 보자. 실제 나무와 물에 비친 나무가 하나의 패턴을 이루는 방식이 거의 추상회화처럼 보인다."
+      },
+      "tags": [
+        "인상주의",
+        "모네",
+        "연작",
+        "풍경화"
+      ]
+    },
+    {
+      "id": "met-006",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "마담 X",
+      "title_original": "Madame X",
+      "artist": "존 싱어 사전트",
+      "year": "1884",
+      "style": "아카데미즘",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-006.jpg",
+      "docent": {
+        "one_line": "파리 살롱을 발칵 뒤집은 초상화, 화가의 커리어를 파멸 직전까지 몰고 갔다",
+        "story": "파리 사교계의 미인 버지니 아뫼리를 그린 초상화로, 1884년 파리 살롱 출품 당시 어깨끈이 흘러내린 관능적인 자세가 엄청난 스캔들을 일으켰다. 당사자 가족의 항의로 어깨끈을 다시 올려 그려야 했고, 사전트는 파리를 떠나 런던으로 이주했다. 훗날 사전트 본인이 이 작품을 자신의 최고작이라 말했다.",
+        "look_for": "피부의 창백한 흰색과 드레스의 칠흑 같은 검정의 대비, 그리고 황금빛 테이블과 어깨끈이 만들어내는 긴장감. 지금 봐도 매우 현대적인 구성이다."
+      },
+      "tags": [
+        "아카데미즘",
+        "초상화",
+        "스캔들",
+        "필수"
+      ]
+    },
+    {
+      "id": "met-007",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "자화상",
+      "title_original": "Self-Portrait",
+      "artist": "렘브란트 판 레인",
+      "year": "1660",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-007.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-007.jpg",
+      "docent": {
+        "one_line": "파산 후 노년의 렘브란트가 자신을 가장 솔직하게 바라본 초상",
+        "story": "렘브란트는 생애에 걸쳐 100점 가까운 자화상을 남긴 화가다. 이 작품은 그가 파산을 겪고 명성을 잃은 만년에 그린 것으로, 화려함 대신 인생의 무게를 그대로 담았다. 젊은 시절의 자화상과 비교하면 렘브란트가 시간을 어떻게 받아들였는지가 느껴진다.",
+        "look_for": "빛이 닿는 이마와 코끝, 어둠 속으로 사라지는 나머지 부분. 렘브란트의 키아로스쿠로(명암법)가 얼굴에서 가장 정직한 부분만 드러낸다."
+      },
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "자화상",
+        "필수"
+      ]
+    },
+    {
+      "id": "met-008",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "후안 데 파레하",
+      "title_original": "Juan de Pareja",
+      "artist": "디에고 벨라스케스",
+      "year": "1650",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-008.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-008.jpg",
+      "docent": {
+        "one_line": "노예의 초상화가 1971년 당시 최고가에 팔린 사연",
+        "story": "벨라스케스가 로마에서 교황의 초상을 그리기 전 붓을 풀기 위해 연습 삼아 그린 자신의 조수이자 노예인 후안 데 파레하의 초상이다. 작품을 본 로마 화가들이 '다른 건 다 그림이지만 이것만은 진짜'라고 했다는 일화가 전한다. 벨라스케스는 훗날 파레하에게 자유를 주었다.",
+        "look_for": "배경의 단순함과 인물의 존재감. 귀족도 성인도 아닌 한 인간의 얼굴에서 뿜어나오는 당당함이 이 그림의 전부다."
+      },
+      "tags": [
+        "바로크",
+        "벨라스케스",
+        "초상화",
+        "필수"
+      ]
+    },
+    {
+      "id": "met-009",
+      "museum": "메트로폴리탄 미술관",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "수확하는 사람들",
+      "title_original": "The Harvesters",
+      "artist": "피터르 브뤼헐 (대)",
+      "year": "1565",
+      "style": "북방 르네상스",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/met-009.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/met-009.jpg",
+      "docent": {
+        "one_line": "500년 전 여름 풍경인데 지금 봐도 낮잠 자고 싶어지는 그림",
+        "story": "1년 12달의 풍경을 담은 연작 중 7~8월을 표현한 작품이다. 밀을 수확하는 농부들 옆에 나무 그늘 아래서 낮잠 자고 점심을 먹는 사람들이 함께 담겨 있다. 당시 종교화 일색이던 시대에 신화나 성인 대신 평범한 농부의 노동과 일상을 이토록 생생하게 담은 것은 매우 파격적이었다.",
+        "look_for": "나무 아래 낮잠 자는 남자와 둥글게 모여 밥 먹는 사람들을 찾아보자. 500년 전 점심시간이 지금과 다르지 않다는 것이 이 그림의 가장 큰 매력이다."
+      },
+      "tags": [
+        "북방르네상스",
+        "브뤼헐",
+        "풍속화",
+        "필수"
+      ]
     },
     {
       "id": "moma-001",
@@ -116,14 +237,19 @@
       "artist": "빈센트 반 고흐",
       "year": "1889",
       "style": "후기인상주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-001.jpg",
       "docent": {
         "one_line": "세계에서 가장 많이 복제된 그림, 그러나 실제 앞에 서면 전혀 다른 경험이다",
-        "story": "생 레미 정신병원에서 그린 이 작품은 고흐 생전에 거의 주목받지 못했다. 오늘날처럼 아이콘이 된 것은 사후 수십 년이 지난 뒤다. 실제 작품은 73.7×92.1cm로 복제 이미지보다 훨씬 작게 느껴지지만, 물감이 두껍게 쌓인 표면의 질감은 어떤 인쇄물도 재현할 수 없다. MoMA에서 항상 가장 긴 줄이 서는 작품이다.",
-        "look_for": "소용돌이 하늘 아래 홀로 빛나는 초승달. 그리고 화면 왼쪽 끝의 검고 굵은 사이프러스 나무—그것이 고흐에게 어떤 상징이었는지를 생각해보자."
+        "story": "생 레미 정신병원에서 그린 이 작품은 고흐 생전에 거의 주목받지 못했다. 오늘날처럼 아이콘이 된 것은 사후 수십 년이 지난 뒤다. 물감이 두껍게 쌓인 표면의 질감은 어떤 인쇄물도 재현할 수 없으며, 소용돌이치는 하늘의 실제 크기는 예상보다 작다는 것이 많은 이들을 놀라게 한다.",
+        "look_for": "소용돌이 하늘 아래 홀로 빛나는 초승달. 그리고 화면 왼쪽의 불꽃처럼 타오르는 사이프러스 나무—고흐에게 이 나무는 삶과 죽음의 경계를 상징했다."
       },
-      "tags": ["후기인상주의", "고흐", "필수", "세계최고인기"]
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "필수",
+        "세계최고인기"
+      ]
     },
     {
       "id": "moma-002",
@@ -135,36 +261,115 @@
       "artist": "파블로 피카소",
       "year": "1907",
       "style": "입체주의 원형",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Les_Demoiselles_d%27Avignon.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/en/4/4c/Les_Demoiselles_d%27Avignon.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-002.jpg",
       "docent": {
         "one_line": "20세기 미술의 빅뱅, 이 그림 이전과 이후의 미술은 다르다",
-        "story": "피카소가 여러 시점을 동시에 담으려는 시도를 처음으로 대담하게 선언한 작품이다. 입체주의의 출발점이자 현대 미술의 기점으로 평가받는다. 아프리카 마스크에서 영향받은 오른쪽 두 인물과 왼쪽의 이베리아 조각 양식을 혼합했다. 당시 마티스, 브라크조차 이 그림을 보고 피카소가 미쳤다고 했다가 훗날 20세기 최대 걸작으로 재평가했다.",
-        "look_for": "다섯 인물의 얼굴과 신체를 표현하는 방식이 모두 다르다. 왼쪽과 오른쪽 인물의 스타일 차이가 피카소가 그림을 그리면서 아프리카 미술을 발견해가는 과정을 그대로 보여준다."
+        "story": "피카소가 여러 시점을 동시에 담으려는 시도를 처음으로 대담하게 선언한 작품이다. 아프리카 마스크에서 영향받은 오른쪽 두 인물과 이베리아 조각 양식의 왼쪽 인물을 혼합했다. 완성 후 브라크, 마티스조차 충격을 받아 혹평했지만, 훗날 모두가 20세기 미술의 출발점으로 인정했다.",
+        "look_for": "다섯 인물의 얼굴을 표현하는 방식이 모두 다르다. 왼쪽에서 오른쪽으로 갈수록 아프리카 마스크의 영향이 강해지는데, 이것이 피카소가 그림을 그리는 도중 아프리카 미술을 발견했다는 증거다."
       },
-      "tags": ["입체주의", "피카소", "필수", "현대미술혁명"]
+      "tags": [
+        "입체주의",
+        "피카소",
+        "필수",
+        "현대미술혁명"
+      ]
     },
     {
       "id": "moma-003",
       "museum": "MoMA",
       "city": "뉴욕",
       "country": "미국",
-      "title": "캠벨 수프 캔",
-      "title_original": "Campbell's Soup Cans",
-      "artist": "앤디 워홀",
-      "year": "1962",
-      "style": "팝아트",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Andy_Warhol_Cambell_Soup_1.jpg/600px-Andy_Warhol_Cambell_Soup_1.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Andy_Warhol_Cambell_Soup_1.jpg",
+      "title": "기억의 지속",
+      "title_original": "The Persistence of Memory",
+      "artist": "살바도르 달리",
+      "year": "1931",
+      "style": "초현실주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-003.jpg",
       "docent": {
-        "one_line": "슈퍼마켓 진열대처럼 늘어선 32개의 수프 캔, 이것이 미술인가라는 질문을 던지다",
-        "story": "워홀은 32가지 종류의 캠벨 수프 캔을 32개의 캔버스에 각각 그렸다. 처음 전시했을 때 옆 갤러리에서 '실제 수프 캔을 3개에 60센트에 살 수 있다'는 광고를 냈을 정도로 미술계는 이 작품을 조롱했다. 지금은 팝아트의 정전이자 소비 자본주의에 대한 가장 날카로운 코멘트로 평가받는다.",
-        "look_for": "32개의 캔이 알파벳 순으로 정렬되어 있다. 각 캔의 차이가 거의 없다는 점—반복과 동일성이 바로 워홀의 메시지다."
+        "one_line": "24×33cm, MoMA에서 가장 작은 유명 작품 중 하나",
+        "story": "녹아내리는 시계로 유명한 이 작품은 놀랍도록 작다. 달리는 카망베르 치즈가 녹는 것을 보고 영감을 받아 불과 몇 시간 만에 그렸다고 주장했다. 풍경은 달리의 고향 카탈루냐 해안이며, 시계들이 녹아내리는 모습은 시간이 절대적이지 않다는 아인슈타인의 상대성이론에서 영향받았다.",
+        "look_for": "시계를 먹고 있는 개미 떼를 찾아보자. 달리에게 개미는 죽음과 부패의 상징이었다. 그리고 화면 중앙의 녹아내린 형체는 달리 자신의 자화상이라고 알려져 있다."
       },
-      "tags": ["팝아트", "워홀", "필수", "소비주의"]
+      "tags": [
+        "초현실주의",
+        "달리",
+        "필수"
+      ]
     },
     {
       "id": "moma-004",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "수련 (트립티크)",
+      "title_original": "Water Lilies (Triptych)",
+      "artist": "클로드 모네",
+      "year": "1914–1926",
+      "style": "인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-004.jpg",
+      "docent": {
+        "one_line": "오랑주리의 수련과 같은 시기, 모네가 MoMA를 위해 남긴 또 다른 수련",
+        "story": "모네는 말년에 백내장으로 시력을 잃어가면서도 수련 연작에 몰두했다. MoMA 소장 트립티크는 오랑주리의 전시와는 다른 스케일과 형식으로, 세 폭이 나란히 걸려 파노라마를 이룬다. 파리 오랑주리에서 수련을 본 사람이라면 같은 시기 다른 버전을 뉴욕에서 만나는 특별한 경험을 할 수 있다.",
+        "look_for": "붓질의 자유로움이 초기 인상주의와 얼마나 다른지 비교해보자. 시력을 잃어가던 노화가의 붓질은 더 대담하고 추상에 가까워진다."
+      },
+      "tags": [
+        "인상주의",
+        "모네",
+        "수련",
+        "연작"
+      ]
+    },
+    {
+      "id": "moma-005",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "댄스 I",
+      "title_original": "Dance I",
+      "artist": "앙리 마티스",
+      "year": "1909",
+      "style": "야수주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-005.jpg",
+      "docent": {
+        "one_line": "러시아 컬렉터의 주문으로 탄생한, 마티스 최초의 댄스 버전",
+        "story": "러시아 컬렉터 세르게이 슈킨의 저택 계단을 장식하기 위해 의뢰받은 작품이다. 최종본(에르미타주 소장)과 달리 이 버전은 색채가 더 차분하다. 다섯 인물이 원을 그리며 춤을 추는 단순한 구도지만 생동감이 폭발한다. 마티스는 지중해 해변에서 어부들이 추는 민속춤 '파랑돌'에서 영감을 받았다.",
+        "look_for": "다섯 인물 중 두 손이 거의 닿을 듯 말 듯 한 부분을 보자. 그 긴장감이 전체 원의 에너지를 만들어낸다."
+      },
+      "tags": [
+        "야수주의",
+        "마티스",
+        "필수"
+      ]
+    },
+    {
+      "id": "moma-006",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "세 명의 음악가",
+      "title_original": "Three Musicians",
+      "artist": "파블로 피카소",
+      "year": "1921",
+      "style": "입체주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-006.jpg",
+      "docent": {
+        "one_line": "입체주의의 완성, 피카소가 가장 행복한 시절에 그린 그림",
+        "story": "아비뇽의 처녀들로 입체주의를 시작한 피카소가 14년 후 그 절정을 보여준 작품이다. 세 명의 악사는 피카소 자신과 친구들—시인 아폴리네르와 막스 자콥—을 모델로 했다는 설이 있다. 대형 캔버스(2m×2.2m)에 콜라주처럼 조각난 형태들이 완벽한 리듬으로 배치되어 있다.",
+        "look_for": "테이블 아래 웅크린 개를 찾아보자. 자세히 보지 않으면 지나치기 쉬운데, 전체 구도의 비밀스러운 네 번째 인물이다."
+      },
+      "tags": [
+        "입체주의",
+        "피카소",
+        "필수"
+      ]
+    },
+    {
+      "id": "moma-007",
       "museum": "MoMA",
       "city": "뉴욕",
       "country": "미국",
@@ -173,74 +378,163 @@
       "artist": "피에트 몬드리안",
       "year": "1942–1943",
       "style": "신조형주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Piet_Mondriaan%2C_1942_-_Broadway_Boogie_Woogie.jpg/800px-Piet_Mondriaan%2C_1942_-_Broadway_Boogie_Woogie.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondriaan%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-007.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-007.jpg",
       "docent": {
-        "one_line": "나치를 피해 뉴욕으로 도망온 71세 화가가 재즈와 도시에 반해 그린 마지막 작품",
-        "story": "평생 검은 선과 삼원색만으로 작업하던 몬드리안이 뉴욕으로 이민온 뒤 재즈 음악과 격자형 도로망에 매료되어 완전히 달라진 그림을 그렸다. 노란 격자선이 붉고 파란 점들과 함께 재즈의 리듬처럼 진동한다. 1944년 폐렴으로 사망하기 직전에 완성한 작품으로, 노년에 찾아온 혁신이 더욱 감동적이다.",
-        "look_for": "격자를 따라 눈을 움직이면 실제로 리듬감이 느껴진다. 교차점마다 색이 변하는 방식이 재즈의 즉흥 연주와 어떻게 닮았는지 생각해보자."
+        "one_line": "나치를 피해 뉴욕으로 온 71세 화가가 재즈에 반해 그린 마지막 작품",
+        "story": "평생 검은 선과 삼원색만으로 작업하던 몬드리안이 뉴욕으로 이민 온 뒤 재즈 음악과 격자형 도로망에 매료되어 완전히 새로운 그림을 그렸다. 1944년 폐렴으로 사망하기 직전에 완성한 작품으로, 노년에 찾아온 혁신이 더욱 감동적이다.",
+        "look_for": "격자를 따라 눈을 움직이면 실제로 리듬감이 느껴진다. 교차점마다 색이 달라지는 방식이 재즈의 즉흥 연주와 닮아 있다."
       },
-      "tags": ["신조형주의", "몬드리안", "뉴욕", "재즈"]
+      "tags": [
+        "신조형주의",
+        "몬드리안",
+        "뉴욕",
+        "재즈"
+      ]
     },
     {
-      "id": "moma-005",
+      "id": "moma-008",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "캠벨 수프 캔",
+      "title_original": "Campbell's Soup Cans",
+      "artist": "앤디 워홀",
+      "year": "1962",
+      "style": "팝아트",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-008.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-008.jpg",
+      "docent": {
+        "one_line": "슈퍼마켓 진열대처럼 늘어선 32개의 수프 캔, 이것이 미술인가",
+        "story": "워홀은 32가지 종류의 캠벨 수프 캔을 32개의 캔버스에 각각 그렸다. 처음 전시 때 옆 갤러리에서 '실제 수프 캔을 3개에 60센트에 살 수 있다'는 광고를 냈다. 지금은 팝아트의 정전이자 소비 자본주의에 대한 가장 날카로운 코멘트로 평가받는다.",
+        "look_for": "32개의 캔이 알파벳 순으로 정렬되어 있다. 각 캔의 차이가 거의 없다는 점—반복과 동일성이 바로 워홀의 메시지다."
+      },
+      "tags": [
+        "팝아트",
+        "워홀",
+        "필수",
+        "소비주의"
+      ]
+    },
+    {
+      "id": "moma-009",
       "museum": "MoMA",
       "city": "뉴욕",
       "country": "미국",
       "title": "No. 31",
-      "title_original": "No. 31",
+      "title_original": "One: Number 31, 1950",
       "artist": "잭슨 폴록",
       "year": "1950",
       "style": "추상표현주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pollock_No._31_MoMA.jpg/800px-Pollock_No._31_MoMA.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pollock_No._31_MoMA.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-009.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-009.jpg",
       "docent": {
         "one_line": "바닥에 캔버스를 깔고 물감을 뿌린 화가—이것이 왜 미술인가",
-        "story": "폴록은 캔버스를 이젤에 세우지 않고 바닥에 눕힌 채 그 위를 걸어다니며 물감을 뿌리고 흘렸다. '드리핑 기법'이라 불리는 이 방식은 미술에서 붓이 의도적으로 선을 만든다는 전통을 완전히 해체했다. 2006년에 한 작품이 1억 4,000만 달러에 팔리며 당시 경매 최고가를 기록했다. '이게 왜 비싸냐'는 질문을 가장 많이 받는 작가이기도 하다.",
-        "look_for": "선 하나를 따라가보자. 어디서 시작해서 어디서 끝나는지 알 수 없다. 이 무한한 선의 네트워크가 드넓은 캔버스 전체를 덮는 방식에서 폴록의 에너지를 느껴보자."
+        "story": "폴록은 캔버스를 바닥에 눕힌 채 위를 걸어다니며 물감을 뿌리고 흘렸다. '드리핑 기법'이라 불리는 이 방식은 미술에서 붓이 의도적으로 선을 만든다는 전통을 완전히 해체했다. 2006년 폴록의 한 작품이 1억 4,000만 달러에 팔리며 당시 경매 최고가를 기록했다.",
+        "look_for": "선 하나를 눈으로 따라가보자. 어디서 시작해서 어디서 끝나는지 알 수 없다. 이 무한한 선의 네트워크가 드넓은 캔버스를 덮는 방식에서 폴록의 에너지를 느껴보자."
       },
-      "tags": ["추상표현주의", "폴록", "드리핑", "필수", "미국미술"]
+      "tags": [
+        "추상표현주의",
+        "폴록",
+        "필수",
+        "미국미술"
+      ]
+    },
+    {
+      "id": "moma-010",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "잠자는 집시",
+      "title_original": "The Sleeping Gypsy",
+      "artist": "앙리 루소",
+      "year": "1897",
+      "style": "나이브 아트",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-010.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-010.jpg",
+      "docent": {
+        "one_line": "독학 화가가 그린, 꿈과 현실의 경계에 있는 가장 고요한 밤",
+        "story": "세관원 출신 독학 화가 루소가 그린 이 작품은 사막 한가운데 잠든 집시와 그를 바라보는 사자를 담았다. 사자는 공격하지 않고 그저 냄새를 맡을 뿐이다. 루소는 이 작품을 파리시에 팔려 했지만 거절당했고, 이후 수십 년간 행방불명됐다가 MoMA에 수장됐다.",
+        "look_for": "달빛 아래 펼쳐진 사막의 적막감과 사자의 시선. 위협적이어야 할 장면이 왜 이토록 평화롭게 느껴지는지 생각해보자."
+      },
+      "tags": [
+        "나이브아트",
+        "루소",
+        "필수"
+      ]
+    },
+    {
+      "id": "moma-011",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "익사하는 소녀",
+      "title_original": "Drowning Girl",
+      "artist": "로이 리히텐슈타인",
+      "year": "1963",
+      "style": "팝아트",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-011.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-011.jpg",
+      "docent": {
+        "one_line": "만화의 말풍선을 캔버스로 가져온 팝아트, 그런데 왜 이렇게 슬프지",
+        "story": "DC 만화의 한 장면을 재해석한 작품이다. 익사 직전의 여성이 '브래드에게 도움을 요청하느니 차라리 익사하겠다'고 생각하는 장면인데, 리히텐슈타인은 원본에서 남자를 삭제하고 여성만 남겨 의미를 완전히 바꿨다. 벤데이 도트 기법으로 인쇄물처럼 보이게 만들었다.",
+        "look_for": "화면 가득 찬 파도의 곡선이 호쿠사이의 '가나가와 해변의 큰 파도'를 연상시킨다. 동양 판화가 서양 만화를 거쳐 미술관으로 들어온 여정이다."
+      },
+      "tags": [
+        "팝아트",
+        "리히텐슈타인",
+        "만화"
+      ]
+    },
+    {
+      "id": "moma-012",
+      "museum": "MoMA",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "붉은 스튜디오",
+      "title_original": "The Red Studio",
+      "artist": "앙리 마티스",
+      "year": "1911",
+      "style": "야수주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/moma-012.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/moma-012.jpg",
+      "docent": {
+        "one_line": "2004년 현대미술 전문가 500명이 뽑은 가장 영향력 있는 작품 5위",
+        "story": "마티스가 1909년에 직접 지은 아틀리에를 온통 붉은색으로 물들인 작품이다. 가구, 바닥, 벽이 모두 같은 붉은 톤에 잠겨 있고, 그 안에 마티스의 다른 작품들이 걸려 있거나 세워져 있다. 공간의 깊이감을 없애고 모든 것을 하나의 색으로 통일한 이 실험이 훗날 추상미술에 결정적인 영향을 미쳤다.",
+        "look_for": "시계가 있어야 할 자리에 시계의 윤곽선만 노란색으로 그려져 있다. 가구들도 마찬가지다. 색이 형태를 압도하는 순간, 공간감이 사라진다."
+      },
+      "tags": [
+        "야수주의",
+        "마티스",
+        "필수"
+      ]
     },
     {
       "id": "guggenheim-001",
       "museum": "구겐하임",
       "city": "뉴욕",
       "country": "미국",
-      "title": "구겐하임 건물 자체",
-      "title_original": "Solomon R. Guggenheim Museum",
-      "artist": "프랭크 로이드 라이트",
-      "year": "1959",
-      "style": "유기적 건축",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Solomon_R._Guggenheim_Museum.jpg/800px-Solomon_R._Guggenheim_Museum.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Solomon_R._Guggenheim_Museum.jpg",
+      "title": "컴포지션 8",
+      "title_original": "Composition 8",
+      "artist": "바실리 칸딘스키",
+      "year": "1923",
+      "style": "추상미술",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-001.jpg",
       "docent": {
-        "one_line": "건물 자체가 세계 최고의 현대 건축물 중 하나—미술관 안에 들어가기 전에 먼저 밖에서 봐라",
-        "story": "프랭크 로이드 라이트가 설계하고 1959년에 완공된 구겐하임 미술관은 나선형 경사로를 따라 올라가며 작품을 감상하는 독특한 구조다. 맨해튼의 직사각형 건물들 사이에서 흰 소용돌이처럼 솟아 있다. 라이트는 건물이 완공되기 6개월 전에 사망해 완성된 모습을 보지 못했다. 많은 예술가들이 이 건물의 경사진 벽에 그림 걸기가 어렵다고 불평했다.",
-        "look_for": "꼭대기 층에서 내려다보면 경사로가 나선형 계단처럼 감겨 내려오며 시각적 현기증을 만들어낸다. 유리 돔에서 들어오는 자연광도 감상의 일부다."
+        "one_line": "추상미술의 아버지가 음악을 그림으로 번역한 작품",
+        "story": "칸딘스키는 색채와 형태가 음악처럼 감정을 직접 전달할 수 있다고 믿었다. 바우하우스 교수 시절 기하학적 형태를 본격적으로 탐구하기 시작한 이 작품은 원, 선, 삼각형이 마치 악기처럼 배치되어 있다. 구겐하임이 세계 최대 칸딘스키 컬렉션을 보유하고 있는데, 그 중심이 이 작품이다.",
+        "look_for": "각 도형에서 소리를 상상해보자. 칸딘스키는 노란색은 트럼펫, 파란색은 첼로의 소리라고 했다. 색과 형태가 함께 만들어내는 리듬을 느껴보자."
       },
-      "tags": ["건축", "라이트", "필수", "유네스코세계유산"]
+      "tags": [
+        "추상미술",
+        "칸딘스키",
+        "바우하우스",
+        "필수"
+      ]
     },
     {
       "id": "guggenheim-002",
-      "museum": "구겐하임",
-      "city": "뉴욕",
-      "country": "미국",
-      "title": "여인 III",
-      "title_original": "Woman III",
-      "artist": "빌렘 드 쿠닝",
-      "year": "1952–1953",
-      "style": "추상표현주의",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/De_Kooning_-_Rosy-Fingered_Dawn_at_Louse_Point_1963.jpg/600px-De_Kooning_-_Rosy-Fingered_Dawn_at_Louse_Point_1963.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/2/22/De_Kooning_-_Rosy-Fingered_Dawn_at_Louse_Point_1963.jpg",
-      "docent": {
-        "one_line": "여성 형상을 해체하고 재조합한 그림, 잔인한가 해방적인가",
-        "story": "드 쿠닝의 '여인' 시리즈는 발표 당시 추상표현주의 동료들에게도 충격을 주었다. 추상으로 향하던 미술의 흐름에서 갑자기 구상으로 회귀했기 때문이다. 여성의 신체를 폭력적으로 해체하고 재조합한 이 그림들이 여성혐오인지 아니면 고대 여신상의 계보를 잇는 찬미인지는 지금도 논쟁 중이다. 강렬하고 불안정한 붓질이 불편함과 생명력을 동시에 전달한다.",
-        "look_for": "눈·코·입의 위치를 찾아보자. 얼굴이 얼마나 뒤틀렸는지, 그럼에도 인간의 형태가 인식되는 순간의 불안한 감각이 이 작품의 핵심이다."
-      },
-      "tags": ["추상표현주의", "드쿠닝", "여성", "논쟁"]
-    },
-    {
-      "id": "guggenheim-003",
       "museum": "구겐하임",
       "city": "뉴욕",
       "country": "미국",
@@ -248,15 +542,158 @@
       "title_original": "Yellow Cow",
       "artist": "프란츠 마르크",
       "year": "1911",
-      "style": "표현주의 (청기사파)",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Franz_Marc_-_Yellow_Cow_-_Google_Art_Project.jpg/800px-Franz_Marc_-_Yellow_Cow_-_Google_Art_Project.jpg",
-      "image_full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Franz_Marc_-_Yellow_Cow_-_Google_Art_Project.jpg",
+      "style": "표현주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-002.jpg",
       "docent": {
         "one_line": "동물에게서 인간보다 순수한 영혼을 보았던 화가의 노란 소",
-        "story": "독일 표현주의 그룹 청기사파(Der Blaue Reiter)의 핵심 멤버 프란츠 마르크는 동물에게서 인간이 잃어버린 순수함을 보았다. 색채에 상징적 의미를 부여했는데, 노란색은 여성성과 기쁨, 파란색은 남성성과 영성을 의미했다. 1916년 베르됭 전투에서 전사하며 36세에 생을 마쳤다.",
+        "story": "독일 표현주의 그룹 청기사파의 마르크는 동물에게서 인간이 잃어버린 순수함을 보았다. 노란색은 여성성과 기쁨, 파란색은 남성성과 영성을 의미했다. 1916년 베르됭 전투에서 전사하며 36세에 생을 마쳤다.",
         "look_for": "소의 도약하는 동작과 배경 언덕의 리드미컬한 곡선. 자연 전체가 하나의 리듬으로 연결되어 있다는 마르크의 세계관이 시각화되어 있다."
       },
-      "tags": ["표현주의", "청기사파", "마르크", "독일"]
+      "tags": [
+        "표현주의",
+        "청기사파",
+        "마르크"
+      ]
+    },
+    {
+      "id": "guggenheim-003",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "붉은 풍선",
+      "title_original": "Red Balloon",
+      "artist": "파울 클레",
+      "year": "1922",
+      "style": "표현주의 / 바우하우스",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-003.jpg",
+      "docent": {
+        "one_line": "어린이 그림 같지만, 바우하우스 마스터가 이론으로 설계한 작품",
+        "story": "클레는 바우하우스에서 색채 이론을 가르치며 색과 형태의 관계를 치밀하게 연구했다. 단순해 보이는 이 작품은 색채의 무게감과 부유감을 치밀하게 계산해 배치한 결과다. 아이 같은 순수함과 지적 엄밀함이 공존하는 클레 예술의 본질이 담겨 있다.",
+        "look_for": "붉은 원이 화면 속에서 실제로 떠오르는 것처럼 느껴지는지 확인해보자. 주변 색채와의 대비가 이 부유감을 만들어낸다."
+      },
+      "tags": [
+        "표현주의",
+        "클레",
+        "바우하우스"
+      ]
+    },
+    {
+      "id": "guggenheim-004",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "재즈를 위한 컴포지션",
+      "title_original": "Composition for \"Jazz\"",
+      "artist": "알베르 글레이즈",
+      "year": "1915",
+      "style": "입체주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-004.jpg",
+      "docent": {
+        "one_line": "입체주의가 재즈를 만났을 때—두 혁명이 충돌하는 순간",
+        "story": "피카소, 브라크와 함께 입체주의를 이끈 글레이즈가 재즈 음악을 시각화한 작품이다. 악기, 연주자, 소리의 진동이 분해되어 화면 위에 동시에 펼쳐진다. 1차 세계대전 중 뉴욕에 체류하며 미국 문화의 역동성에 충격받은 직후의 작품이다.",
+        "look_for": "화면을 분해된 악기와 음표처럼 읽어보자. 정적인 그림에서 재즈의 리듬과 즉흥성이 느껴지는지 확인해보자."
+      },
+      "tags": [
+        "입체주의",
+        "글레이즈",
+        "재즈"
+      ]
+    },
+    {
+      "id": "guggenheim-005",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "노란 머리칼의 여인",
+      "title_original": "Woman with Yellow Hair",
+      "artist": "파블로 피카소",
+      "year": "1931",
+      "style": "입체주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-005.jpg",
+      "docent": {
+        "one_line": "피카소가 비밀 연인 마리 테레즈를 그린 시리즈 중 가장 관능적인 작품",
+        "story": "피카소가 17세에 만나 비밀 연인으로 삼은 마리 테레즈 발테르를 모델로 한 작품이다. 당시 피카소는 유부남이었고, 마리 테레즈의 존재는 수십 년간 비밀에 부쳐졌다. 잠든 여인을 묘사한 이 시리즈에서 피카소는 입체주의의 분해된 형태에 관능적인 곡선을 결합했다.",
+        "look_for": "형태는 분해되어 있지만 곡선은 매우 부드럽다. 피카소의 입체주의 작품 중 가장 따뜻하고 친밀한 분위기를 내는 이유가 여기에 있다."
+      },
+      "tags": [
+        "입체주의",
+        "피카소",
+        "초상화"
+      ]
+    },
+    {
+      "id": "guggenheim-006",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "팔짱 낀 남자",
+      "title_original": "Man with Crossed Arms",
+      "artist": "폴 세잔",
+      "year": "1899",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-006.jpg",
+      "docent": {
+        "one_line": "피카소가 '나의 유일한 스승'이라 부른 세잔의 인물화",
+        "story": "세잔은 인물을 사과처럼 대했다—감정이 아닌 형태와 구조의 대상으로. 이 중년 남성의 정체는 알려지지 않았지만, 팔짱 낀 자세에서 오는 심리적 긴장감이 묵직하게 전달된다. 세잔의 인물화는 피카소의 입체주의로 가는 직접적인 다리였다.",
+        "look_for": "얼굴의 왼쪽과 오른쪽이 미묘하게 다른 시점에서 그려졌다. 세잔의 '다시점'—여러 시점을 하나의 화면에 담으려는 시도—가 인물화에 적용된 드문 예다."
+      },
+      "tags": [
+        "후기인상주의",
+        "세잔",
+        "인물화"
+      ]
+    },
+    {
+      "id": "guggenheim-007",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "경작된 들판",
+      "title_original": "The Tilled Field",
+      "artist": "호안 미로",
+      "year": "1923–1924",
+      "style": "초현실주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-007.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-007.jpg",
+      "docent": {
+        "one_line": "카탈루냐 농가 풍경이 꿈속으로 들어가면—미로의 첫 번째 걸작",
+        "story": "미로가 파리에서 고향 카탈루냐를 그리워하며 그린 첫 번째 중요 작품이다. 현실의 농가 풍경이 기괴하고 유머러스한 상상의 세계로 변환되어 있다. 나무에 눈이 달려 있고, 동물들은 이상한 형태로 변형되어 있다. 초현실주의 화가들이 이 그림을 보고 미로에게 합류를 요청했다.",
+        "look_for": "나무, 동물, 귀, 눈이 섞인 이상한 형태들을 하나씩 찾아보자. 현실과 꿈이 뒤섞인 미로의 세계에 한 번 발을 들이면 빠져나오기 어렵다."
+      },
+      "tags": [
+        "초현실주의",
+        "미로",
+        "카탈루냐"
+      ]
+    },
+    {
+      "id": "guggenheim-008",
+      "museum": "구겐하임",
+      "city": "뉴욕",
+      "country": "미국",
+      "title": "생 레미의 산",
+      "title_original": "Mountains at Saint-Rémy",
+      "artist": "빈센트 반 고흐",
+      "year": "1889",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/guggenheim-008.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/guggenheim-008.jpg",
+      "docent": {
+        "one_line": "정신병원에서 외출 허가를 받은 고흐가 처음 그린 풍경",
+        "story": "귀를 자른 사건 이후 생 레미 정신병원에 자발적으로 입원한 고흐가 외출이 허용되고 나서 처음 그린 풍경이다. 화면 중앙의 구불구불한 바위는 실제 알피유 산맥의 석회암 지형이다. 고흐는 테오에게 편지로 이 작품이 소설 한 구절에서 영감받았다고 전했다. 전경의 해바라기는 안료 변색으로 원래 분홍빛이었던 것이 지금은 하얗게 바래 있다. 이 작품은 1978년 타나우저 컬렉션의 일부로 구겐하임에 유증됐다.",
+        "look_for": "하늘과 산과 밀밭이 모두 같은 방향으로 소용돌이치고 있다. 별이 빛나는 밤의 소용돌이가 낮의 풍경에도 동일하게 적용되어 있다는 것을 확인해보자."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "생레미",
+        "타나우저컬렉션"
+      ]
     }
   ]
 }
