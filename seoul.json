@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "version": "1.1",
+    "city": "서울",
+    "country": "대한민국",
+    "image_source": "Wikimedia Commons / Public Domain / Museum Open Access",
+    "museums": [
+      "국립중앙박물관",
+      "리움미술관",
+      "국립현대미술관"
+    ]
+  },
+  "artworks": [
+    {
+      "id": "nationalmuseum-001",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "반가사유상",
+      "title_original": "金銅半跏思惟像",
+      "artist": "작자 미상",
+      "year": "7세기 (삼국시대)",
+      "style": "삼국시대 불교조각",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Korean_gilt-bronze_Maitreya_in_meditation_%28National_Museum%29.jpg/800px-Korean_gilt-bronze_Maitreya_in_meditation_%28National_Museum%29.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Korean_gilt-bronze_Maitreya_in_meditation_%28National_Museum%29.jpg",
+      "docent": {
+        "one_line": "독일 철학자 야스퍼스가 '인류 최고의 예술품'이라 부른 한국의 보물",
+        "story": "오른쪽 무릎 위에 왼발을 올리고 오른손 손가락을 살며시 뺨에 댄 채 생각에 잠긴 미륵보살의 모습이다. 78cm의 금동상이지만 앞에 서면 압도적인 존재감을 느끼게 된다. 독일 실존주의 철학자 칼 야스퍼스가 1954년 이 상을 보고 '인간 실존의 완성된 표현'이라 극찬한 일화로도 유명하다. 국보 83호로, 국립중앙박물관을 대표하는 상징적 유물이다.",
+        "look_for": "살짝 기울어진 고개와 희미하게 띤 미소—'아르카이크 스마일'이라 불리는 이 표정이 사유의 깊이를 전달한다. 손가락 하나의 섬세함, 발가락 하나의 정교함을 가까이서 확인해보자."
+      },
+      "tags": ["삼국시대", "불교", "조각", "국보", "필수"]
+    },
+    {
+      "id": "nationalmuseum-002",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "청자 상감운학문 매병",
+      "title_original": "靑磁象嵌雲鶴文梅甁",
+      "artist": "작자 미상",
+      "year": "12세기 (고려시대)",
+      "style": "고려 청자",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Maebyeong_vase_with_cranes_and_clouds%2C_Goryeo_dynasty%2C_12th_century%2C_Korea%2C_celadon_with_inlaid_decoration_-_Freer_Gallery_of_Art_-_DSC05203.JPG/600px-Maebyeong_vase_with_cranes_and_clouds%2C_Goryeo_dynasty%2C_12th_century%2C_Korea%2C_celadon_with_inlaid_decoration_-_Freer_Gallery_of_Art_-_DSC05203.JPG",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Maebyeong_vase_with_cranes_and_clouds%2C_Goryeo_dynasty%2C_12th_century%2C_Korea%2C_celadon_with_inlaid_decoration_-_Freer_Gallery_of_Art_-_DSC05203.JPG",
+      "docent": {
+        "one_line": "고려인이 비색(翡色)이라 불렀던, 그 빛깔의 정점",
+        "story": "고려청자는 중국 송나라 도공들조차 '천하제일'이라 인정한 도자기다. 매병은 원래 매화 가지를 꽂아두는 작은 입을 가진 병인데, 이 작품은 표면을 파내고 백토와 자토를 채워 넣는 상감 기법으로 학과 구름 무늬를 새겼다. 비취처럼 은은한 청록색 유약이 1000년이 지난 지금도 그 빛을 유지하고 있다.",
+        "look_for": "표면의 학 무늬가 흰색과 검은색으로 선명하게 대비된다. 상감 기법—표면을 파고 다른 색 흙을 채워 구워내는 것—이 얼마나 정밀한지 가까이서 살펴보자."
+      },
+      "tags": ["고려시대", "청자", "도자기", "국보", "필수"]
+    },
+    {
+      "id": "nationalmuseum-003",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "인왕제색도",
+      "title_original": "仁王霽色圖",
+      "artist": "정선",
+      "year": "1751",
+      "style": "진경산수화",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Inwangjesaekdo.jpg/800px-Inwangjesaekdo.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/7/79/Inwangjesaekdo.jpg",
+      "docent": {
+        "one_line": "비 갠 직후 인왕산을 눈앞에서 본 것처럼 그린, 조선 산수화의 혁명",
+        "story": "겸재 정선이 75세에 그린 이 작품은 상상 속 이상향이 아닌 서울 인왕산을 실제로 관찰하여 그렸다. 중국 화풍을 모방하던 시대에 우리 산의 생김새를 직접 담아낸 진경산수화의 대표작이다. 비 뒤에 바위가 더욱 짙고 선명해지는 순간을 포착했으며, 수직으로 내리그은 묵직한 붓질이 화강암의 질감을 놀랍도록 생생하게 표현한다.",
+        "look_for": "바위를 표현한 굵고 수직적인 먹 선과 수목을 표현한 부드러운 먹 번짐의 대비. 화면 하단의 안개 속에 희미하게 드러나는 집들이 원근감을 만들어낸다."
+      },
+      "tags": ["조선시대", "회화", "진경산수", "국보", "정선"]
+    },
+    {
+      "id": "nationalmuseum-004",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "신윤복 풍속화첩 — 단오풍정",
+      "title_original": "端午風情",
+      "artist": "신윤복",
+      "year": "19세기 초 (조선시대)",
+      "style": "풍속화",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sin_Yun-bok-Dano_10.jpg/800px-Sin_Yun-bok-Dano_10.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sin_Yun-bok-Dano_10.jpg",
+      "docent": {
+        "one_line": "조선 사회가 숨기고 싶었던 여성들의 일상을 담아낸 그림",
+        "story": "단오(음력 5월 5일)에 여인들이 창포물에 머리를 감고 그네를 타는 풍속을 담았다. 당시 조선 사회에서 여성의 일상을 이토록 생생하고 자유롭게 묘사하는 것은 매우 파격적이었다. 멀리서 바위 뒤에 숨어 목욕하는 여인들을 훔쳐보는 동자승들의 시선이 그림에 유머와 긴장을 동시에 불어넣는다.",
+        "look_for": "오른쪽 바위 뒤에서 고개를 내밀고 있는 두 동자승을 찾아보자. 여인들의 화사한 색과 동자승들의 어두운 승복이 대조를 이룬다."
+      },
+      "tags": ["조선시대", "풍속화", "신윤복", "여성", "국보"]
+    },
+    {
+      "id": "nationalmuseum-005",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "백자 달항아리",
+      "title_original": "白磁大壺",
+      "artist": "작자 미상",
+      "year": "18세기 (조선시대)",
+      "style": "조선 백자",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Korean_white_porcelain_jar_-_Joseon_dynasty.jpg/600px-Korean_white_porcelain_jar_-_Joseon_dynasty.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Korean_white_porcelain_jar_-_Joseon_dynasty.jpg",
+      "docent": {
+        "one_line": "완벽한 원이 아니어서 더 아름다운 항아리",
+        "story": "조선의 달항아리는 위아래 두 개의 반구를 따로 만들어 붙이는 방식으로 제작된다. 이 때문에 완전한 구형이 되지 않고 약간 비뚤거나 한쪽이 납작한 독특한 형태가 나온다. 도예가 김환기는 '완전한 원이 아니기에 더 완벽하다'고 했다. 순백의 색과 비어 있는 듯 충만한 형태가 조선 미의식의 핵심인 '담백함'을 담고 있다.",
+        "look_for": "360도로 돌아보면 어느 각도에서 보느냐에 따라 형태가 달라진다. 완벽하지 않은 비대칭이 오히려 생명감을 만들어낸다."
+      },
+      "tags": ["조선시대", "백자", "도자기", "국보"]
+    },
+    {
+      "id": "nationalmuseum-006",
+      "museum": "국립중앙박물관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "천마도",
+      "title_original": "天馬圖",
+      "artist": "작자 미상",
+      "year": "5~6세기 (신라시대)",
+      "style": "신라 고분벽화",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cheonmado.jpg/800px-Cheonmado.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cheonmado.jpg",
+      "docent": {
+        "one_line": "신라 고분 속에서 나온 한국 최초의 회화, 하늘을 나는 말",
+        "story": "경주 천마총에서 발견된 말다래(말 탈 때 흙이 튀지 않도록 안장 양쪽에 다는 장식품)에 그려진 그림이다. 자작나무 껍질에 하늘을 힘차게 달리는 백마를 그렸는데, 1500년 전 그림이라고는 믿기 어려울 만큼 역동적이고 생생하다. 한국 회화의 역사에서 현존하는 가장 오래된 그림으로 평가받는다.",
+        "look_for": "꼬리와 갈기의 역동적인 선을 따라가보자. 정면이 아닌 달리는 순간을 포착한 구도가 1500년 전 화가의 탁월한 관찰력을 보여준다."
+      },
+      "tags": ["신라시대", "회화", "고분", "국보", "최초"]
+    },
+    {
+      "id": "leeum-001",
+      "museum": "리움미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "무제 (검은 사각형)",
+      "title_original": "Untitled (Black Square)",
+      "artist": "이우환",
+      "year": "1973",
+      "style": "단색화 / 모노하",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lee_Ufan_at_Chateau_La_Coste.jpg/600px-Lee_Ufan_at_Chateau_La_Coste.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Lee_Ufan_at_Chateau_La_Coste.jpg",
+      "docent": {
+        "one_line": "그리지 않은 여백이 그린 것보다 더 많은 그림",
+        "story": "이우환은 일본에서 '모노하(もの派)' 운동을 이끈 한국 출신의 세계적인 작가다. 그의 점·선 시리즈는 캔버스에 붓질 몇 개만 남기고 나머지는 비워두는 방식으로, 행위와 여백 사이의 관계를 탐구한다. 뉴욕 구겐하임, 파리 베르사유 궁전 등 세계 최고의 공간에서 전시한 작가의 초기 핵심 작품이다.",
+        "look_for": "붓이 캔버스에 닿는 첫 획의 힘과 마지막 획이 사라지는 지점의 차이. 무엇이 그려져 있는가보다 무엇이 그려지지 않았는가를 생각해보자."
+      },
+      "tags": ["단색화", "이우환", "현대미술", "모노하"]
+    },
+    {
+      "id": "leeum-002",
+      "museum": "리움미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "붉은 달",
+      "title_original": "Red Moon",
+      "artist": "김환기",
+      "year": "1958",
+      "style": "한국 추상미술",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Whanki_Museum_Bukchon.JPG/800px-Whanki_Museum_Bukchon.JPG",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Whanki_Museum_Bukchon.JPG",
+      "docent": {
+        "one_line": "한국적 서정을 세계 추상화 언어로 번역한 화가",
+        "story": "수화 김환기는 달·산·항아리·새 같은 한국적 소재를 추상으로 끌어올린 화가다. 뉴욕 시절 그의 점화 시리즈는 경매에서 수십억 원에 낙찰되며 한국 미술 최고가를 경신했다. 이 시기 작품은 파리 유학 시절 서양 추상과 한국적 정서를 융합하기 시작한 전환점으로, 둥근 달과 산의 형태가 아직 구상과 추상 사이에 걸쳐 있다.",
+        "look_for": "형태는 단순하지만 표면에 쌓인 물감의 층위를 살펴보자. 여러 번 덧칠하고 긁어낸 흔적이 시간의 밀도를 만들어낸다."
+      },
+      "tags": ["추상미술", "김환기", "한국근현대", "리움"]
+    },
+    {
+      "id": "leeum-003",
+      "museum": "리움미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "닷 페인팅 (점화)",
+      "title_original": "Point Painting",
+      "artist": "김환기",
+      "year": "1971",
+      "style": "한국 추상미술",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Whanki_Kim_studio.jpg/600px-Whanki_Kim_studio.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Whanki_Kim_studio.jpg",
+      "docent": {
+        "one_line": "한 점 한 점 찍으며 그리운 것들의 이름을 새긴 그림",
+        "story": "뉴욕 시절 김환기는 고향과 죽은 벗들을 그리워하며 캔버스 가득 무수한 점을 찍는 작업으로 전환했다. 그는 편지에 '점을 찍을 때마다 누군가를 생각한다'고 적었다. 수만 개의 점이 모여 드넓은 우주적 공간을 만들어내는 이 시리즈가 한국 미술 경매 최고가 기록을 계속 갱신하고 있다.",
+        "look_for": "멀리서 보면 하나의 색면처럼 보이지만, 가까이 다가가면 점 하나하나가 각각 다른 크기와 농도를 가지고 있다. 그 반복 속에 담긴 노동과 애도를 느껴보자."
+      },
+      "tags": ["추상미술", "김환기", "점화", "필수", "최고가"]
+    },
+    {
+      "id": "leeum-004",
+      "museum": "리움미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "묘법 (描法)",
+      "title_original": "Écriture",
+      "artist": "박서보",
+      "year": "1977",
+      "style": "단색화",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Park_Seo-Bo_at_Frieze_LA.jpg/600px-Park_Seo-Bo_at_Frieze_LA.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/5/58/Park_Seo-Bo_at_Frieze_LA.jpg",
+      "docent": {
+        "one_line": "물기 있는 캔버스에 연필로 선을 반복해 그어, 무아지경에 이르는 수행",
+        "story": "박서보는 물감이 마르기 전에 연필로 반복해서 선을 긋는 독자적인 '묘법'을 개발했다. 선을 '그리는' 것이 아니라 '긋는' 행위 자체가 목적이며, 수천 번의 반복이 일종의 명상이자 수행이 된다. 한국 단색화(丹色畵) 운동을 대표하는 작가로, 최근 세계 미술 시장에서 재평가받으며 가격이 급등하고 있다.",
+        "look_for": "표면의 결이 마치 한지나 나무결처럼 보인다. 캔버스에 물감과 연필 선이 켜켜이 쌓인 촉감적 표면이 단색화의 핵심이다."
+      },
+      "tags": ["단색화", "박서보", "현대미술", "수행"]
+    },
+    {
+      "id": "leeum-005",
+      "museum": "리움미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "Balloon Dog (Orange)",
+      "title_original": "Balloon Dog (Orange)",
+      "artist": "제프 쿤스",
+      "year": "1994–2000",
+      "style": "팝아트 / 신개념주의",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jeff_Koons_Balloon_Dog.jpg/600px-Jeff_Koons_Balloon_Dog.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jeff_Koons_Balloon_Dog.jpg",
+      "docent": {
+        "one_line": "생일 파티 풍선을 크롬 스테인리스로 만든, 세계에서 가장 비싼 조각 중 하나",
+        "story": "리움미술관 야외에 설치된 이 거대한 오렌지빛 풍선 개는 실제로는 크롬 처리된 스테인리스 스틸로 만들어진 조각이다. 쿤스는 키치(저급한 대중 취향)를 순수 예술의 언어로 끌어올리는 작업을 한다. 2013년 경매에서 5,840만 달러에 낙찰되어 당시 생존 작가 최고가를 기록했다. 리움의 한국 고미술 컬렉션과 극단적으로 대비되는 배치가 의도적이다.",
+        "look_for": "거울처럼 반짝이는 표면에 주변 풍경과 자신의 모습이 반영된다. 이 반영 자체가 작품의 일부다."
+      },
+      "tags": ["팝아트", "쿤스", "야외조각", "현대미술"]
+    },
+    {
+      "id": "mmca-001",
+      "museum": "국립현대미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "광장",
+      "title_original": "The Square",
+      "artist": "임옥상",
+      "year": "1987",
+      "style": "민중미술",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MMCA_Seoul.jpg/800px-MMCA_Seoul.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MMCA_Seoul.jpg",
+      "docent": {
+        "one_line": "민주화 시위 현장을 캔버스에 옮긴, 1980년대 한국의 증언",
+        "story": "1980년대 한국 민주화 운동과 함께 탄생한 민중미술은 노동자·농민·도시 빈민의 삶을 날카롭게 표현했다. 임옥상의 이 작품은 광장에 모인 군중의 열기와 긴장을 강렬한 색채와 거친 붓질로 담아냈다. 당시 미술계의 주류인 단색화와 정반대의 방향성—사회적 발언을 전면에 내세우는—으로 논쟁을 일으켰다.",
+        "look_for": "인물 개개인의 얼굴이 불분명하지만 군중의 집단적 에너지가 강렬하게 전달된다. 색채의 혼란이 당시의 혼돈과 열기를 재현한다."
+      },
+      "tags": ["민중미술", "1980년대", "현대미술", "역사"]
+    },
+    {
+      "id": "mmca-002",
+      "museum": "국립현대미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "복숭아나무",
+      "title_original": "Peach Tree",
+      "artist": "이중섭",
+      "year": "1954",
+      "style": "한국 근대미술",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lee_Jung-seob_memorial_hall.jpg/800px-Lee_Jung-seob_memorial_hall.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lee_Jung-seob_memorial_hall.jpg",
+      "docent": {
+        "one_line": "은박지에 그린 소 그림으로 유명한 이중섭, 그의 비극적 삶이 작품 속에 녹아 있다",
+        "story": "이중섭은 한국 근대 회화의 가장 비극적인 천재다. 6·25 전쟁으로 일본인 아내와 두 아들이 일본으로 떠난 뒤 그는 가난과 이별의 고통 속에서 작업했다. 담뱃갑 은박지에 날카로운 것으로 긁어 그린 소 그림이 대표작이지만, 유화 작품에서도 원색의 강렬함과 가족을 향한 그리움이 깊이 배어 있다. 1956년 41세에 간경화로 쓸쓸히 생을 마쳤다.",
+        "look_for": "화면 속 생명의 충만함과 화가의 실제 삶이 얼마나 대조적인지 생각해보자. 색채의 강렬함이 삶에 대한 집착이자 저항으로 읽힌다."
+      },
+      "tags": ["한국근대", "이중섭", "비극", "필수"]
+    },
+    {
+      "id": "mmca-003",
+      "museum": "국립현대미술관",
+      "city": "서울",
+      "country": "대한민국",
+      "title": "웰컴 투 삼성",
+      "title_original": "Welcome to Samsung",
+      "artist": "박이소",
+      "year": "1996",
+      "style": "개념미술",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MMCA_Seoul.jpg/800px-MMCA_Seoul.jpg",
+      "image_full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MMCA_Seoul.jpg",
+      "docent": {
+        "one_line": "재벌과 국가 정체성에 대한 불편한 질문을 설치 미술로 던진 작품",
+        "story": "박이소(Bahc Yiso)는 뉴욕에서 활동하다 귀국한 개념 미술가로, 세계화·소비주의·한국 사회에 대한 비판적 시각을 유머와 위트로 풀어냈다. 대기업 로고와 한국 사회의 결합을 직설적으로 시각화한 이 작품은 지금도 유효한 질문을 던진다. 2004년 46세에 갑작스럽게 사망하여 작품이 더욱 희귀하다.",
+        "look_for": "작품이 불편하게 느껴진다면 그것이 정확히 작가의 의도다. 웃음과 불편함이 동시에 오는 감각을 따라가보자."
+      },
+      "tags": ["개념미술", "박이소", "현대미술", "사회비판"]
+    }
+  ]
+}
