@@ -108,16 +108,20 @@
     }
 
     /* ── PAGES ── */
-    .page { display: none; }
-    .page.active { display: block; }
+    .page { display: block; }
+
+    #gallery {
+      display: none;
+    }
+    #gallery.active {
+      display: block;
+    }
 
     /* ════════════════════════════
        LANDING PAGE
     ════════════════════════════ */
     #landing {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
+      min-height: auto;
     }
 
     .landing-hero {
@@ -151,7 +155,7 @@
       color: var(--cream);
       margin-bottom: 24px;
     }
-    .landing-h1 em { font-style: italic; color: var(--gold); }
+    .landing-h1 em { font-style: normal; color: var(--gold); }
 
     .landing-desc {
       font-size: 15px;
@@ -262,13 +266,11 @@
 
     /* Landing stats */
     .landing-stats {
-      padding: 0 48px 48px;
+      padding: 32px 48px 56px;
       display: flex;
       gap: 48px;
       border-top: 1px solid var(--border);
-      padding-top: 32px;
       margin: 0 48px;
-      margin-bottom: 0;
     }
     .stat { display: flex; flex-direction: column; gap: 4px; }
     .stat-num {
@@ -824,7 +826,7 @@
   </header>
 
   <!-- ════ LANDING PAGE ════ -->
-  <div id="landing" class="page active">
+  <div id="landing">
     <div class="landing-hero">
       <div class="landing-eyebrow">세계 · 3개 도시</div>
       <h1 class="landing-h1">실전 압축<br><em>도슨트</em></h1>
@@ -847,15 +849,10 @@
         <div class="stat-label">작품</div>
       </div>
     </div>
-
-    <footer>
-      <div class="footer-logo">Galerie</div>
-      <div class="footer-note">이미지 출처: Wikimedia Commons (Public Domain)</div>
-    </footer>
   </div>
 
   <!-- ════ GALLERY PAGE ════ -->
-  <div id="gallery" class="page">
+  <div id="gallery">
     <div class="gallery-header-bar">
       <button class="back-btn" id="back-btn">← 도시 선택</button>
       <div class="gallery-city-label" id="gallery-city-label"></div>
@@ -993,11 +990,12 @@
 
     // ── SHOW GALLERY ──
     function showGallery(city, data) {
-      // Switch pages
-      document.getElementById('landing').classList.remove('active');
-      document.getElementById('gallery').classList.add('active');
+      const galleryEl = document.getElementById('gallery');
 
-      // Header
+      // Show gallery below landing
+      galleryEl.classList.add('active');
+
+      // Header subtitle
       document.getElementById('header-subtitle').textContent = `${city.name} · 도슨트 가이드`;
       document.getElementById('gallery-city-label').innerHTML =
         `${city.name} <span>${city.nameEn}, ${city.country}</span>`;
@@ -1030,8 +1028,10 @@
       // Content
       renderGalleryContent(data);
 
-      // Scroll to top
-      window.scrollTo(0, 0);
+      // Auto-scroll to gallery
+      setTimeout(() => {
+        galleryEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 50);
     }
 
     function renderGalleryContent(data) {
@@ -1087,10 +1087,9 @@
     // ── BACK TO LANDING ──
     function goToLanding() {
       document.getElementById('gallery').classList.remove('active');
-      document.getElementById('landing').classList.add('active');
       document.getElementById('header-subtitle').textContent = '세계 미술관 도슨트';
       document.getElementById('museum-filter').style.display = 'none';
-      window.scrollTo(0, 0);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     document.getElementById('back-btn').addEventListener('click', goToLanding);
