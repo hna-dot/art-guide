@@ -16,37 +16,13 @@
       "museum": "반 고흐 미술관",
       "city": "암스테르담",
       "country": "네덜란드",
-      "title": "붕대 감은 귀의 자화상",
-      "title_original": "Self-Portrait with Bandaged Ear",
-      "artist": "빈센트 반 고흐",
-      "year": "1889",
-      "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-001.jpg",
-      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-001.jpg",
-      "docent": {
-        "one_line": "귀를 자른 직후 고흐가 스스로를 바라본 가장 솔직한 초상",
-        "story": "1888년 12월, 고흐는 고갱과 격렬한 다툼 끝에 자신의 왼쪽 귀를 잘랐다. 사건 직후 입원한 병원에서 퇴원하자마자 그린 이 자화상은 붕대를 감은 채 모피 모자를 쓰고 정면을 바라보는 고흐의 모습을 담고 있다. 배경의 일본 판화와 캔버스가 그가 그림에 얼마나 집착했는지를 보여준다. 귀 사건의 정확한 원인은 지금도 미스터리로 남아 있다.",
-        "look_for": "배경 오른쪽 위에 걸린 일본 우키요에 판화를 찾아보자. 고흐는 일본 판화를 열렬히 수집했고 그것이 자신의 화풍에 큰 영향을 미쳤다고 믿었다. 그리고 뒤로 보이는 캔버스—그림을 그리는 행위만이 그의 정신적 지주였다."
-      },
-      "tags": [
-        "후기인상주의",
-        "고흐",
-        "자화상",
-        "필수"
-      ]
-    },
-    {
-      "id": "vangogh-002",
-      "museum": "반 고흐 미술관",
-      "city": "암스테르담",
-      "country": "네덜란드",
       "title": "감자 먹는 사람들",
       "title_original": "The Potato Eaters",
       "artist": "빈센트 반 고흐",
-      "year": "1885",
-      "style": "사실주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-002.jpg",
-      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-002.jpg",
+      "year": "1889",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-001.jpg",
       "docent": {
         "one_line": "고흐가 '내 최고작'이라 자부했던 첫 번째 대작, 그러나 혹평만 받았다",
         "story": "고흐가 화가로서 처음 진지하게 도전한 대형 작품이다. 네덜란드 농촌의 가난한 가족이 감자를 나눠 먹는 장면을 담았는데, 고흐는 그들이 직접 땅을 일군 손으로 음식을 먹는 것의 정직함을 표현하려 했다. 동생 테오에게 보낸 편지에서 '나는 의도적으로 어둡고 더러운 색을 썼다'고 했다. 친구 화가들은 혹평했지만 고흐는 평생 이 작품을 가장 아꼈다.",
@@ -60,6 +36,30 @@
       ]
     },
     {
+      "id": "vangogh-002",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "붕대 감은 귀의 자화상",
+      "title_original": "Self-Portrait with Bandaged Ear",
+      "artist": "빈센트 반 고흐",
+      "year": "1885",
+      "style": "사실주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-002.jpg",
+      "docent": {
+        "one_line": "귀를 자른 직후 고흐가 스스로를 바라본 가장 솔직한 초상",
+        "story": "1888년 12월, 고흐는 고갱과 격렬한 다툼 끝에 자신의 왼쪽 귀를 잘랐다. 사건 직후 입원한 병원에서 퇴원하자마자 그린 이 자화상은 붕대를 감은 채 모피 모자를 쓰고 정면을 바라보는 고흐의 모습을 담고 있다. 배경의 일본 판화와 캔버스가 그가 그림에 얼마나 집착했는지를 보여준다. 귀 사건의 정확한 원인은 지금도 미스터리로 남아 있다.",
+        "look_for": "배경 오른쪽 위에 걸린 일본 우키요에 판화를 찾아보자. 고흐는 일본 판화를 열렬히 수집했고 그것이 자신의 화풍에 큰 영향을 미쳤다고 믿었다. 그리고 뒤로 보이는 캔버스—그림을 그리는 행위만이 그의 정신적 지주였다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "자화상",
+        "필수"
+      ]
+    },
+    {
       "id": "vangogh-003",
       "museum": "반 고흐 미술관",
       "city": "암스테르담",
@@ -69,7 +69,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1890",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-003.jpg",
       "docent": {
         "one_line": "갓 태어난 조카를 위해 그린 고흐의 가장 희망적인 그림",
@@ -93,7 +93,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1888",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-004.jpg",
       "docent": {
         "one_line": "고흐가 아를의 노란 집에서 '휴식'을 표현하려 했지만 지금은 고독의 상징이 된 그림",
@@ -117,7 +117,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1890",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-005.jpg",
       "docent": {
         "one_line": "고흐가 자살하기 직전에 그린 마지막 작품 중 하나—하지만 그것이 전부가 아니다",
@@ -141,7 +141,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1889",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-006.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-006.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-006.jpg",
       "docent": {
         "one_line": "고갱을 기다리며 그린 꽃, 지금은 고흐의 상징이 됐다",
@@ -165,7 +165,7 @@
       "artist": "빈센트 반 고흐",
       "year": "1888",
       "style": "후기인상주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-007.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-007.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-007.jpg",
       "docent": {
         "one_line": "노르웨이 다락방에서 100년 만에 발견된 고흐의 잃어버린 걸작",
@@ -189,7 +189,7 @@
       "artist": "렘브란트 판 레인",
       "year": "1642",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-001.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-001.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-001.jpg",
       "docent": {
         "one_line": "세계에서 가장 유명한 집단 초상화, 그런데 낮에 그린 그림이다",
@@ -213,7 +213,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1657–1658",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-002.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-002.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-002.jpg",
       "docent": {
         "one_line": "17세기에 그린 그림인데, 빛의 표현이 사진보다 사실적이다",
@@ -237,7 +237,7 @@
       "artist": "렘브란트 판 레인",
       "year": "1665–1669",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-003.jpg",
       "docent": {
         "one_line": "반 고흐가 '이 그림 앞에 두 주만 앉아 있을 수 있다면 10년 수명을 내놓겠다'고 했다",
@@ -260,7 +260,7 @@
       "artist": "렘브란트 판 레인",
       "year": "1661",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-004.jpg",
       "docent": {
         "one_line": "파산하고 아들마저 먼저 보낸 렘브란트가 사도 바울의 얼굴로 그린 자화상",
@@ -283,7 +283,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1663",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-005.jpg",
       "docent": {
         "one_line": "페르메이르의 편지 시리즈 중 가장 고요하고 내밀한 순간",
@@ -306,7 +306,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1657–1658",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-006.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-006.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-006.jpg",
       "docent": {
         "one_line": "페르메이르가 그린 유일한 도시 풍경화, 그리고 400년 전 골목이 실제로 특정됐다",
@@ -329,7 +329,7 @@
       "artist": "프란시스코 고야",
       "year": "1823",
       "style": "낭만주의",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-007.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-007.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-007.jpg",
       "docent": {
         "one_line": "망명 직전 고야가 그린 마지막 초상화 중 하나, 그 안에 담긴 시대의 공포",
@@ -352,7 +352,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1665",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-001.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-001.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-001.jpg",
       "docent": {
         "one_line": "북방의 모나리자—정체도, 이름도, 시선의 의미도 아무것도 모른다",
@@ -376,7 +376,7 @@
       "artist": "렘브란트 판 레인",
       "year": "1632",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-002.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-002.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-002.jpg",
       "docent": {
         "one_line": "26세 렘브란트가 단번에 암스테르담 최고의 화가로 등극한 출세작",
@@ -400,7 +400,7 @@
       "artist": "카렐 파브리티위스",
       "year": "1654",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-003.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-003.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-003.jpg",
       "docent": {
         "one_line": "손바닥만 한 크기, 세상에서 가장 유명한 새 그림",
@@ -423,7 +423,7 @@
       "artist": "요하네스 페르메이르",
       "year": "1660–1661",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-004.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-004.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-004.jpg",
       "docent": {
         "one_line": "프루스트가 '세상에서 가장 아름다운 그림'이라 했고, 소설 속 등장인물이 이 앞에서 쓰러져 죽는다",
@@ -447,7 +447,7 @@
       "artist": "파울루스 포테르",
       "year": "1647",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-005.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-005.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-005.jpg",
       "docent": {
         "one_line": "22세 청년이 그린 거의 실물 크기의 황소—19세기까지 야경, 해부학 강의와 함께 네덜란드 3대 명화로 꼽혔다",
@@ -470,7 +470,7 @@
       "artist": "얀 스텐",
       "year": "1668–1670",
       "style": "바로크",
-      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-006.jpg",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-006.jpg",
       "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-006.jpg",
       "docent": {
         "one_line": "'부모가 하는 대로 자식도 한다'—17세기 네덜란드의 도덕 풍자화",
