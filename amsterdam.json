@@ -1,0 +1,488 @@
+{
+  "meta": {
+    "version": "1.1",
+    "city": "암스테르담",
+    "country": "네덜란드",
+    "image_source": "Cloudinary",
+    "museums": [
+      "반 고흐 미술관",
+      "라익스뮤지엄",
+      "마우리츠하이스"
+    ]
+  },
+  "artworks": [
+    {
+      "id": "vangogh-001",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "붕대 감은 귀의 자화상",
+      "title_original": "Self-Portrait with Bandaged Ear",
+      "artist": "빈센트 반 고흐",
+      "year": "1889",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-001.jpg",
+      "docent": {
+        "one_line": "귀를 자른 직후 고흐가 스스로를 바라본 가장 솔직한 초상",
+        "story": "1888년 12월, 고흐는 고갱과 격렬한 다툼 끝에 자신의 왼쪽 귀를 잘랐다. 사건 직후 입원한 병원에서 퇴원하자마자 그린 이 자화상은 붕대를 감은 채 모피 모자를 쓰고 정면을 바라보는 고흐의 모습을 담고 있다. 배경의 일본 판화와 캔버스가 그가 그림에 얼마나 집착했는지를 보여준다. 귀 사건의 정확한 원인은 지금도 미스터리로 남아 있다.",
+        "look_for": "배경 오른쪽 위에 걸린 일본 우키요에 판화를 찾아보자. 고흐는 일본 판화를 열렬히 수집했고 그것이 자신의 화풍에 큰 영향을 미쳤다고 믿었다. 그리고 뒤로 보이는 캔버스—그림을 그리는 행위만이 그의 정신적 지주였다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "자화상",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-002",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "감자 먹는 사람들",
+      "title_original": "The Potato Eaters",
+      "artist": "빈센트 반 고흐",
+      "year": "1885",
+      "style": "사실주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-002.jpg",
+      "docent": {
+        "one_line": "고흐가 '내 최고작'이라 자부했던 첫 번째 대작, 그러나 혹평만 받았다",
+        "story": "고흐가 화가로서 처음 진지하게 도전한 대형 작품이다. 네덜란드 농촌의 가난한 가족이 감자를 나눠 먹는 장면을 담았는데, 고흐는 그들이 직접 땅을 일군 손으로 음식을 먹는 것의 정직함을 표현하려 했다. 동생 테오에게 보낸 편지에서 '나는 의도적으로 어둡고 더러운 색을 썼다'고 했다. 친구 화가들은 혹평했지만 고흐는 평생 이 작품을 가장 아꼈다.",
+        "look_for": "다섯 인물의 손을 보자. 고흐는 이 손들이 흙을 파던 손임을 보여주기 위해 의도적으로 거칠고 투박하게 그렸다. 유일한 광원인 천장의 램프가 만드는 음영도 놓치지 말자."
+      },
+      "tags": [
+        "사실주의",
+        "고흐",
+        "초기작",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-003",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "아몬드 블라썸",
+      "title_original": "Almond Blossom",
+      "artist": "빈센트 반 고흐",
+      "year": "1890",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-003.jpg",
+      "docent": {
+        "one_line": "갓 태어난 조카를 위해 그린 고흐의 가장 희망적인 그림",
+        "story": "동생 테오의 아들이 태어났다는 소식을 듣고 고흐가 선물로 그린 작품이다. 아이의 이름도 빈센트 빌럼으로 지어졌다. 하늘색 배경 위로 흰 아몬드 꽃이 피어나는 이 그림은 고흐의 작품 중 가장 밝고 희망적이다. 일본 판화의 영향이 가장 뚜렷하게 드러나는 작품이기도 하다. 고흐는 이 그림을 완성한 지 몇 달 후 세상을 떠났다.",
+        "look_for": "꽃가지의 구도와 하늘색 배경이 일본 우키요에 판화를 거의 그대로 닮아 있다. 고흐가 동양 미술에서 배운 '여백'과 '선'의 언어가 가장 잘 드러나는 작품이다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "일본영향",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-004",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "침실",
+      "title_original": "Bedroom in Arles",
+      "artist": "빈센트 반 고흐",
+      "year": "1888",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-004.jpg",
+      "docent": {
+        "one_line": "고흐가 아를의 노란 집에서 '휴식'을 표현하려 했지만 지금은 고독의 상징이 된 그림",
+        "story": "고흐는 아를의 노란 집에서 함께 살 동료 화가들을 기다리며 자신의 침실을 그렸다. 그는 테오에게 '이 그림은 절대적인 휴식을 표현한다'고 했다. 하지만 기울어진 원근법, 빈 의자 두 개, 텅 빈 침대는 오히려 깊은 고독감을 전달한다. 고흐는 이 구도를 세 번 반복해 그렸다.",
+        "look_for": "벽에 걸린 그림들이 고흐 자신의 작품들이다. 그리고 의자가 두 개지만 방에는 아무도 없다. 고흐가 그토록 바랐던 '함께'가 끝내 이뤄지지 않은 공간이다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "아를",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-005",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "까마귀 나는 밀밭",
+      "title_original": "Wheatfield with Crows",
+      "artist": "빈센트 반 고흐",
+      "year": "1890",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-005.jpg",
+      "docent": {
+        "one_line": "고흐가 자살하기 직전에 그린 마지막 작품 중 하나—하지만 그것이 전부가 아니다",
+        "story": "고흐가 오베르쉬르우아즈에서 세상을 떠나기 약 2주 전에 그린 작품으로, 오랫동안 '유작'으로 알려졌다. 폭풍 전의 밀밭 위로 까마귀 떼가 날아오르는 장면이 불안과 죽음의 예감으로 읽혔다. 그러나 실제로는 이 시기 고흐의 편지에서 삶의 의지와 평화로운 감정도 나타난다. 어두운 하늘과 황금빛 밀밭의 극적 대비가 압도적이다.",
+        "look_for": "세 갈래로 갈라지는 길이 그림 안쪽으로 향하는데 모두 막혀 있거나 사라진다. 그리고 까마귀가 밀밭 쪽으로 날아드는지, 화면 밖으로 빠져나오는지—보는 사람마다 다르게 읽힌다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "유작",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-006",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "해바라기",
+      "title_original": "Sunflowers",
+      "artist": "빈센트 반 고흐",
+      "year": "1889",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-006.jpg",
+      "docent": {
+        "one_line": "고갱을 기다리며 그린 꽃, 지금은 고흐의 상징이 됐다",
+        "story": "고흐는 고갱이 아를의 노란 집에 오기를 기다리며 그의 방을 해바라기로 꾸미려 했다. 해바라기 연작 중 반 고흐 미술관 소장본은 노란색의 미묘한 변주가 가장 풍부한 버전이다. 고흐는 해바라기를 '감사'의 상징으로 여겼다. 일부 꽃이 지고 씨앗을 맺는 단계도 함께 그린 것이 특징이다.",
+        "look_for": "꽃마다 상태가 다르다. 활짝 핀 것, 시들기 시작한 것, 씨앗이 맺힌 것이 한 화병에 공존한다. 노란색이 얼마나 다양한 톤으로 표현되는지, 배경의 노란색과 꽃의 노란색이 어떻게 구분되는지 살펴보자."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "해바라기",
+        "필수"
+      ]
+    },
+    {
+      "id": "vangogh-007",
+      "museum": "반 고흐 미술관",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "몽마주르의 일몰",
+      "title_original": "Sunset at Montmajour",
+      "artist": "빈센트 반 고흐",
+      "year": "1888",
+      "style": "후기인상주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/vangogh-007.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/vangogh-007.jpg",
+      "docent": {
+        "one_line": "노르웨이 다락방에서 100년 만에 발견된 고흐의 잃어버린 걸작",
+        "story": "2013년 반 고흐 미술관이 노르웨이의 한 개인 소장자 다락방에서 발견해 공식 확인한 작품이다. 1928년 이후 처음 발견된 대형 캔버스 고흐 작품으로 세계적인 화제를 모았다. 고흐가 편지에 '어제 그렸다'고 테오에게 정확히 날짜까지 적어 놓아 1888년 7월 4일 그린 것으로 확인됐다. 아를 근처 몽마주르 수도원 언덕의 석양을 담았다.",
+        "look_for": "고흐의 전형적인 두꺼운 붓질과 소용돌이치는 하늘이 초기 아를 시절 특유의 강렬한 색채와 함께 나타난다. 100년 넘게 세상에서 사라졌다가 돌아온 그림이라는 사실을 생각하며 보면 감회가 새롭다."
+      },
+      "tags": [
+        "후기인상주의",
+        "고흐",
+        "발견",
+        "아를"
+      ]
+    },
+    {
+      "id": "rijks-001",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "야경",
+      "title_original": "The Night Watch",
+      "artist": "렘브란트 판 레인",
+      "year": "1642",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-001.jpg",
+      "docent": {
+        "one_line": "세계에서 가장 유명한 집단 초상화, 그런데 낮에 그린 그림이다",
+        "story": "암스테르담 민병대 대원 18명의 집단 초상화로, 18세기 이후 표면에 쌓인 바니시가 어두워지면서 '야경'이라는 이름이 붙었지만 실제로는 대낮 장면이다. 렘브란트는 단순한 기념 초상 대신 민병대가 출동하는 역동적인 순간을 포착했다. 너무 커서 17세기에 한 번 잘려나갔고, 2차대전 때는 둘둘 말아 은신처에 숨겨졌다.",
+        "look_for": "화면 중앙의 밝은 황금빛 소녀가 민병대원들 사이에 왜 있는지는 수수께끼다. 그리고 그림 오른쪽 뒤편에 렘브란트 자신의 얼굴이 숨어 있다—찾아보자."
+      },
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "집단초상화",
+        "필수"
+      ]
+    },
+    {
+      "id": "rijks-002",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "우유 따르는 여인",
+      "title_original": "The Milkmaid",
+      "artist": "요하네스 페르메이르",
+      "year": "1657–1658",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-002.jpg",
+      "docent": {
+        "one_line": "17세기에 그린 그림인데, 빛의 표현이 사진보다 사실적이다",
+        "story": "우유를 그릇에 따르는 하녀의 일상적인 순간을 담은 이 작품은 네덜란드 황금시대 회화의 정수로 꼽힌다. 페르메이르는 카메라 옵스쿠라를 사용해 빛을 관찰했다는 설이 있는데, 왼쪽 창문에서 들어오는 빛이 인물과 사물에 닿는 방식이 그 어떤 동시대 그림보다 정확하다. 배경의 빵 조각 하나하나, 바구니의 질감까지 섬세하다.",
+        "look_for": "발 난로 옆 바닥에 있는 타일을 보자. 큐피드와 사랑 장면이 새겨진 타일이 하녀의 은밀한 감정을 암시한다는 해석이 있다."
+      },
+      "tags": [
+        "바로크",
+        "페르메이르",
+        "풍속화",
+        "필수"
+      ]
+    },
+    {
+      "id": "rijks-003",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "유대인 신부",
+      "title_original": "The Jewish Bride",
+      "artist": "렘브란트 판 레인",
+      "year": "1665–1669",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-003.jpg",
+      "docent": {
+        "one_line": "반 고흐가 '이 그림 앞에 두 주만 앉아 있을 수 있다면 10년 수명을 내놓겠다'고 했다",
+        "story": "남성이 여성의 가슴 위에 손을 얹는 친밀한 장면을 담은 이 작품은 제목의 유래가 불분명하다. 성경 속 이삭과 리브가 또는 실제 암스테르담 유대인 부부로 추정된다. 두꺼운 임파스토 기법으로 쌓아 올린 황금빛 옷감의 질감이 렘브란트 만년 기법의 정점이다. 반 고흐가 이 그림 앞에서 한 말은 미술사에서 가장 유명한 감상평 중 하나다.",
+        "look_for": "남성의 손과 여성의 손이 만나는 부분에 집중해보자. 두꺼운 물감이 마치 조각처럼 돋아 올라 있다. 인물의 얼굴보다 손이 이 그림에서 가장 많은 이야기를 한다."
+      },
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "인물화"
+      ]
+    },
+    {
+      "id": "rijks-004",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "사도 바울로서의 자화상",
+      "title_original": "Self-Portrait as the Apostle Paul",
+      "artist": "렘브란트 판 레인",
+      "year": "1661",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-004.jpg",
+      "docent": {
+        "one_line": "파산하고 아들마저 먼저 보낸 렘브란트가 사도 바울의 얼굴로 그린 자화상",
+        "story": "렘브란트는 생애에 걸쳐 80점 이상의 자화상을 남겼다. 이 작품은 파산, 아내의 죽음, 아들 티튀스의 죽음을 겪은 만년에 그린 것이다. 스스로를 박해받았지만 믿음을 지킨 사도 바울에 투영했다. 손에 든 것이 성경이라는 해석과 편지 뭉치라는 해석이 공존한다.",
+        "look_for": "눈을 보자. 렘브란트의 만년 자화상은 젊은 시절의 화려함이 사라지고 인생의 무게가 고스란히 담겨 있다. 그 눈에서 체념인지, 아직 남은 의지인지를 읽어내는 것이 이 그림의 핵심이다."
+      },
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "자화상"
+      ]
+    },
+    {
+      "id": "rijks-005",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "편지를 읽는 파란 옷의 여인",
+      "title_original": "Woman in Blue Reading a Letter",
+      "artist": "요하네스 페르메이르",
+      "year": "1663",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-005.jpg",
+      "docent": {
+        "one_line": "페르메이르의 편지 시리즈 중 가장 고요하고 내밀한 순간",
+        "story": "임신한 것처럼 보이는 여성이 홀로 편지를 읽고 있다. 누구에게서 온 편지인지, 무슨 내용인지 알 수 없다. 왼쪽 창문에서 들어오는 빛이 인물을 감싸고, 배경의 지도가 멀리 있는 누군가—아마도 항해 중인 남편—를 암시한다는 해석이 있다. 페르메이르 특유의 고요하고 비밀스러운 순간이다.",
+        "look_for": "여성의 시선이 편지에 완전히 빠져 있어 관람자의 존재를 완전히 잊은 것처럼 보인다. 페르메이르가 그린 인물들은 항상 이렇게 자신만의 세계에 몰입해 있다."
+      },
+      "tags": [
+        "바로크",
+        "페르메이르",
+        "풍속화"
+      ]
+    },
+    {
+      "id": "rijks-006",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "작은 거리",
+      "title_original": "The Little Street",
+      "artist": "요하네스 페르메이르",
+      "year": "1657–1658",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-006.jpg",
+      "docent": {
+        "one_line": "페르메이르가 그린 유일한 도시 풍경화, 그리고 400년 전 골목이 실제로 특정됐다",
+        "story": "페르메이르의 작품 중 실내 장면이 아닌 드문 야외 도시 풍경화다. 델프트의 한 골목을 담은 이 그림은 2015년 연구자들이 GPS와 고지도를 결합해 실제 장소가 현재 Vlamingstraat 40-42번지임을 특정했다. 벽의 얼룩, 덩굴, 창문의 질감이 놀랍도록 사실적이다.",
+        "look_for": "문간에 앉아 바느질하는 여인과 아치 안쪽 골목에서 일하는 여인을 찾아보자. 그리고 아치 왼쪽 문 안에 두 아이가 바닥에 앉아 놀고 있다."
+      },
+      "tags": [
+        "바로크",
+        "페르메이르",
+        "도시풍경"
+      ]
+    },
+    {
+      "id": "rijks-007",
+      "museum": "라익스뮤지엄",
+      "city": "암스테르담",
+      "country": "네덜란드",
+      "title": "라몬 사투에 초상",
+      "title_original": "Portrait of Don Ramón Satué",
+      "artist": "프란시스코 고야",
+      "year": "1823",
+      "style": "낭만주의",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/rijks-007.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/rijks-007.jpg",
+      "docent": {
+        "one_line": "망명 직전 고야가 그린 마지막 초상화 중 하나, 그 안에 담긴 시대의 공포",
+        "story": "스페인 법관 라몬 사투에의 초상으로, 고야가 스페인 종교재판의 탄압을 피해 프랑스로 망명하기 직전에 그렸다. 어두운 배경 위에 단순하고 직접적으로 인물을 부각시키는 방식은 고야 만년의 전형적인 스타일이다. 이 작품이 어떻게 라익스뮤지엄에 오게 됐는지 경로도 흥미롭다.",
+        "look_for": "인물의 눈빛과 자세에서 오는 심리적 존재감을 느껴보자. 고야는 초상화에서 권위나 지위보다 인간의 심리를 드러내는 데 집중했다."
+      },
+      "tags": [
+        "낭만주의",
+        "고야",
+        "초상화"
+      ]
+    },
+    {
+      "id": "mauritshuis-001",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "진주 귀걸이를 한 소녀",
+      "title_original": "Girl with a Pearl Earring",
+      "artist": "요하네스 페르메이르",
+      "year": "1665",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-001.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-001.jpg",
+      "docent": {
+        "one_line": "북방의 모나리자—정체도, 이름도, 시선의 의미도 아무것도 모른다",
+        "story": "페르메이르의 가장 유명한 작품이지만 모델이 누구인지, 초상화인지 상상의 인물인지조차 불분명하다. '트로니'라 불리는 네덜란드 특유의 상상 인물화 형식으로 보는 견해가 유력하다. 2003년 트레이시 슈발리에의 소설과 영화로 전 세계적 명성을 얻었다. 귀걸이가 실제 진주인지 유리 모조품인지도 논쟁 중이다.",
+        "look_for": "소녀의 시선이 관람자를 향하면서도 막 돌아서려는 것처럼 보인다. 정면도 측면도 아닌 이 애매한 각도와 살짝 열린 입술이 수백 년째 사람들을 끌어당기는 이유다."
+      },
+      "tags": [
+        "바로크",
+        "페르메이르",
+        "필수",
+        "트로니"
+      ]
+    },
+    {
+      "id": "mauritshuis-002",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "니콜라스 튈프 박사의 해부학 강의",
+      "title_original": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "렘브란트 판 레인",
+      "year": "1632",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-002.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-002.jpg",
+      "docent": {
+        "one_line": "26세 렘브란트가 단번에 암스테르담 최고의 화가로 등극한 출세작",
+        "story": "암스테르담 외과의사 조합이 의뢰한 집단 초상화로, 당시 26세였던 렘브란트가 처음 받은 대형 주문이다. 튈프 박사가 공개 해부 강의를 진행하는 장면인데, 그 전까지 이런 그림은 모두 교수 옆에 학생들이 줄지어 서는 단조로운 구도였다. 렘브란트는 시선의 방향과 손동작으로 전혀 다른 역동성을 만들어냈다.",
+        "look_for": "해부되는 팔의 힘줄이 렘브란트의 그림으로는 드물게 해부학적으로 부정확하다는 사실이 나중에 밝혀졌다. 그런데도 이 그림이 위대한 이유는 정확성이 아닌 인간과 죽음을 바라보는 시선에 있다."
+      },
+      "tags": [
+        "바로크",
+        "렘브란트",
+        "집단초상화",
+        "필수"
+      ]
+    },
+    {
+      "id": "mauritshuis-003",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "황금방울새",
+      "title_original": "The Goldfinch",
+      "artist": "카렐 파브리티위스",
+      "year": "1654",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-003.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-003.jpg",
+      "docent": {
+        "one_line": "손바닥만 한 크기, 세상에서 가장 유명한 새 그림",
+        "story": "렘브란트의 수제자였던 파브리티위스가 그린 이 작품은 실제 크기가 33×23cm에 불과하다. 그림을 그린 해인 1654년, 파브리티위스는 델프트 화약고 폭발 사고로 32세에 사망했다. 도나 타트의 2013년 퓰리처상 수상 소설 '황금방울새'로 다시 주목받았다. 사슬에 묶인 새가 그럼에도 평온해 보이는 것이 이 그림의 핵심이다.",
+        "look_for": "새가 앉은 횃대 아래 가느다란 사슬을 찾아보자. 자유롭게 날 수 없지만 그림 속 새는 불안해 보이지 않는다. 파브리티위스가 죽음 직전에 그린 이 새가 무엇을 상징하는지 생각해보자."
+      },
+      "tags": [
+        "바로크",
+        "파브리티위스",
+        "필수"
+      ]
+    },
+    {
+      "id": "mauritshuis-004",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "델프트 전경",
+      "title_original": "View of Delft",
+      "artist": "요하네스 페르메이르",
+      "year": "1660–1661",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-004.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-004.jpg",
+      "docent": {
+        "one_line": "프루스트가 '세상에서 가장 아름다운 그림'이라 했고, 소설 속 등장인물이 이 앞에서 쓰러져 죽는다",
+        "story": "페르메이르의 작품 중 드문 도시 풍경화다. 마르셀 프루스트의 소설 '잃어버린 시간을 찾아서'에서 등장인물 베르고트가 이 그림 앞에서 '노란 벽면의 작은 부분'의 아름다움에 전율하며 쓰러져 죽는 장면으로 유명하다. 물 위에 반영된 도시의 빛이 사진처럼 정확하다.",
+        "look_for": "프루스트가 그토록 감동받은 '노란 벽면의 작은 부분'을 찾아보자. 우측 건물 지붕 아래의 작은 노란 부분이다. 그리고 흐린 하늘 아래 물 위에 반영된 빛이 얼마나 정확한지도 확인해보자."
+      },
+      "tags": [
+        "바로크",
+        "페르메이르",
+        "도시풍경",
+        "필수"
+      ]
+    },
+    {
+      "id": "mauritshuis-005",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "어린 황소",
+      "title_original": "The Young Bull",
+      "artist": "파울루스 포테르",
+      "year": "1647",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-005.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-005.jpg",
+      "docent": {
+        "one_line": "22세 청년이 그린 거의 실물 크기의 황소—19세기까지 야경, 해부학 강의와 함께 네덜란드 3대 명화로 꼽혔다",
+        "story": "1647년 당시 22세였던 파울루스 포테르가 그린 이 작품은 황소를 거의 실물 크기로 담은 동물화다. 당시 미술의 위계에서 동물화는 하위 장르였지만, 포테르는 황소를 마치 영웅처럼 당당하게 화면 중앙에 배치했다. 자세히 보면 등에 파리가 앉아 있을 만큼 세밀하다. 포테르는 이 그림을 그린 지 7년 후 29세에 요절했다.",
+        "look_for": "황소의 눈을 보자. 그리고 뒤에 있는 농부와 양, 말도 찾아보자. 파리가 황소 등에 앉아 있는 것도 찾아보자—포테르가 얼마나 집요한 관찰자였는지 알 수 있다."
+      },
+      "tags": [
+        "바로크",
+        "포테르",
+        "동물화"
+      ]
+    },
+    {
+      "id": "mauritshuis-006",
+      "museum": "마우리츠하이스",
+      "city": "헤이그",
+      "country": "네덜란드",
+      "title": "노인이 노래하면 젊은이도 따라 부른다",
+      "title_original": "As the Old Sing, So Pipe the Young",
+      "artist": "얀 스텐",
+      "year": "1668–1670",
+      "style": "바로크",
+      "image_url": "https://res.cloudinary.com/do5tz8aun/image/upload/c_fill,w_800,h_600,g_auto/mauritshuis-006.jpg",
+      "image_full": "https://res.cloudinary.com/do5tz8aun/image/upload/mauritshuis-006.jpg",
+      "docent": {
+        "one_line": "'부모가 하는 대로 자식도 한다'—17세기 네덜란드의 도덕 풍자화",
+        "story": "3대가 함께 모여 술 마시고 담배 피우는 축제 장면을 담은 작품이다. 얀 스텐은 이 주제를 13번이나 그렸는데, 마우리츠하이스 소장본이 가장 완성도 높은 버전으로 꼽힌다. 부모가 나쁜 본보기를 보이면 아이들도 따라 한다는 네덜란드 속담을 시각화했지만, 훈계보다는 유머가 앞선다. 얀 스텐 본인도 주정뱅이였다는 전설이 있다.",
+        "look_for": "어른에게서 담배를 배우는 아이, 앵무새, 아기를 안은 여인을 찾아보자. 화면 곳곳에 당시 네덜란드 도덕 관념의 상징들이 숨어 있다."
+      },
+      "tags": [
+        "바로크",
+        "얀스텐",
+        "풍속화",
+        "풍자"
+      ]
+    }
+  ]
+}
