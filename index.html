@@ -319,8 +319,9 @@
        GALLERY PAGE
     ════════════════════════════ */
     .gallery-header-bar {
-      background: rgba(12, 11, 9, 0.5);
+      background: var(--bg-card);
       border-bottom: 1px solid var(--border);
+      border-top: 1px solid var(--border);
       padding: 12px 48px;
       display: flex;
       align-items: center;
@@ -358,110 +359,56 @@
       font-family: 'DM Sans', sans-serif;
     }
 
-    /* Gallery Banner Hero */
-    .gallery-banner {
-      position: relative;
-      height: 320px;
-      overflow: hidden;
+    /* Gallery intro (no banner image) */
+    .gallery-intro {
+      padding: 40px 48px 36px;
+      border-bottom: 1px solid var(--border);
       display: flex;
-      align-items: flex-end;
-    }
-
-    .gallery-banner-bg {
-      position: absolute;
-      inset: 0;
-      background-size: cover;
-      background-position: center 30%;
-      filter: brightness(0.55) saturate(0.9);
-    }
-
-    .gallery-banner-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(
-        105deg,
-        rgba(12,11,9,0.85) 0%,
-        rgba(12,11,9,0.4) 50%,
-        transparent 100%
-      );
-    }
-
-    .gallery-banner-content {
-      position: relative;
-      z-index: 1;
-      padding: 0 48px 40px;
-      display: flex;
-      align-items: flex-end;
+      align-items: baseline;
       justify-content: space-between;
-      width: 100%;
+      gap: 24px;
     }
 
-    .gallery-banner-left {}
+    .gallery-intro-left {}
 
-    .gallery-banner-tag {
-      display: inline-block;
+    .gallery-intro-tag {
       font-size: 9px;
       letter-spacing: 0.35em;
       text-transform: uppercase;
-      color: var(--gold);
-      border: 1px solid var(--gold-dim);
-      padding: 4px 10px;
-      margin-bottom: 16px;
+      color: var(--gold-dim);
+      margin-bottom: 12px;
     }
 
-    .gallery-banner-city {
+    .gallery-intro-city {
       font-family: 'Cormorant Garamond', serif;
-      font-size: clamp(48px, 7vw, 80px);
+      font-size: clamp(28px, 4vw, 44px);
       font-weight: 300;
-      line-height: 0.9;
+      line-height: 1.0;
       color: var(--cream);
       letter-spacing: -0.01em;
     }
 
-    .gallery-banner-city em {
+    .gallery-intro-city em {
       font-style: italic;
       color: var(--gold);
+      margin-left: 12px;
+      font-size: 0.85em;
     }
 
-    .gallery-banner-right {
+    .gallery-intro-right {
       text-align: right;
-      padding-bottom: 4px;
+      flex-shrink: 0;
     }
 
-    .gallery-banner-museums {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      align-items: flex-end;
-    }
-
-    .gallery-banner-museum-item {
-      font-size: 11px;
-      letter-spacing: 0.15em;
-      color: rgba(232, 224, 208, 0.5);
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .gallery-banner-museum-item::before {
-      content: '';
-      display: block;
-      width: 20px;
-      height: 1px;
-      background: var(--gold-dim);
-    }
-
-    .gallery-banner-count {
-      margin-top: 16px;
+    .gallery-intro-count {
       font-family: 'Cormorant Garamond', serif;
-      font-size: 36px;
+      font-size: 40px;
       font-weight: 300;
       color: var(--gold);
       line-height: 1;
     }
 
-    .gallery-banner-count-label {
+    .gallery-intro-count-label {
       font-size: 9px;
       letter-spacing: 0.25em;
       text-transform: uppercase;
@@ -469,7 +416,6 @@
       margin-top: 4px;
     }
 
-    /* Keep old .hero for nothing, use .gallery-banner now */
     .hero { display: none; }
 
     /* ── MUSEUM SECTION ── */
@@ -484,7 +430,7 @@
     }
     .museum-name {
       font-family: 'Cormorant Garamond', serif;
-      font-size: 36px;
+      font-size: 22px;
       font-weight: 300;
       letter-spacing: 0.05em;
       color: var(--cream);
@@ -828,16 +774,12 @@
       .city-grid { padding: 24px 20px 60px; }
       .hero { padding: 60px 20px 40px; }
       .gallery-header-bar { padding: 12px 20px; }
+      .gallery-intro { padding: 24px 20px 20px; flex-direction: column; align-items: flex-start; gap: 8px; }
+      .gallery-intro-city { font-size: 28px; }
+      .gallery-intro-right { text-align: left; }
+      .gallery-intro-count { font-size: 32px; }
       .museum-section { padding: 0 20px 60px; }
       .artwork-grid { grid-template-columns: 1fr 1fr; gap: 2px; }
-      .gallery-banner { height: 220px; }
-      .gallery-banner-content { padding: 0 20px 28px; flex-direction: column; align-items: flex-start; gap: 16px; }
-      .gallery-banner-city { font-size: 40px; }
-      .gallery-banner-right { text-align: left; }
-      .gallery-banner-museums { align-items: flex-start; flex-direction: row; flex-wrap: wrap; gap: 4px; }
-      .gallery-banner-museum-item::before { display: none; }
-      .gallery-banner-museum-item { font-size: 10px; border: 1px solid var(--border); padding: 2px 8px; }
-      .gallery-banner-count { font-size: 28px; margin-top: 8px; }
       .modal { grid-template-columns: 1fr; max-height: 85vh; }
       .modal-image-side img { min-height: 240px; max-height: 300px; }
       .modal-content-side { padding: 28px 24px; }
@@ -886,19 +828,14 @@
       <button class="back-btn" id="back-btn">← 도시 선택</button>
       <div class="gallery-city-label" id="gallery-city-label"></div>
     </div>
-    <div class="gallery-banner" id="gallery-banner">
-      <div class="gallery-banner-bg" id="gallery-banner-bg"></div>
-      <div class="gallery-banner-overlay"></div>
-      <div class="gallery-banner-content">
-        <div class="gallery-banner-left">
-          <div class="gallery-banner-tag" id="gallery-banner-tag"></div>
-          <div class="gallery-banner-city" id="gallery-banner-city"></div>
-        </div>
-        <div class="gallery-banner-right">
-          <div class="gallery-banner-museums" id="gallery-banner-museums"></div>
-          <div class="gallery-banner-count" id="gallery-banner-count"></div>
-          <div class="gallery-banner-count-label">작품 수록</div>
-        </div>
+    <div class="gallery-intro">
+      <div class="gallery-intro-left">
+        <div class="gallery-intro-tag" id="gallery-intro-tag"></div>
+        <div class="gallery-intro-city" id="gallery-intro-city"></div>
+      </div>
+      <div class="gallery-intro-right">
+        <div class="gallery-intro-count" id="gallery-intro-count"></div>
+        <div class="gallery-intro-count-label">작품 수록</div>
       </div>
     </div>
     <main id="main-content"></main>
@@ -952,8 +889,8 @@
         country: '프랑스',
         file: 'paris.json',
         desc: '루브르, 오르세, 오랑주리',
-        cardBg: 'images/paris-card.jpg',
-        bannerBg: 'images/paris-banner.jpg'
+        cardBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/paris-card.jpg',
+        bannerBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/paris-banner.jpg'
       },
       {
         id: 'seoul',
@@ -962,8 +899,8 @@
         country: '대한민국',
         file: 'seoul.json',
         desc: '국립중앙박물관, 리움, 국립현대미술관',
-        cardBg: 'images/seoul-card.jpg',
-        bannerBg: 'images/seoul-banner.jpg'
+        cardBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/seoul-card.jpg',
+        bannerBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/seoul-banner.jpg'
       },
       {
         id: 'newyork',
@@ -972,8 +909,8 @@
         country: '미국',
         file: 'newyork.json',
         desc: '메트, MoMA, 구겐하임',
-        cardBg: 'images/newyork-card.jpg',
-        bannerBg: 'images/newyork-banner.jpg'
+        cardBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/newyork-card.jpg',
+        bannerBg: 'https://res.cloudinary.com/do5tz8aun/image/upload/newyork-banner.jpg'
       }
     ];
 
@@ -1053,14 +990,11 @@
       document.getElementById('gallery-city-label').innerHTML =
         `${city.name} <span>${city.nameEn}, ${city.country}</span>`;
 
-      // Banner
+      // Intro
       const museums = [...new Set(data.artworks.map(a => a.museum))];
-      document.getElementById('gallery-banner-bg').style.backgroundImage = `url('${city.bannerBg}')`;
-      document.getElementById('gallery-banner-tag').textContent = `${city.country} · ${museums.length}개 미술관`;
-      document.getElementById('gallery-banner-city').innerHTML = `${city.name}<br><em>${city.nameEn}</em>`;
-      document.getElementById('gallery-banner-count').textContent = data.artworks.length;
-      document.getElementById('gallery-banner-museums').innerHTML =
-        museums.map(m => `<div class="gallery-banner-museum-item">${m}</div>`).join('');
+      document.getElementById('gallery-intro-tag').textContent = `${city.name} · ${museums.length}개 미술관`;
+      document.getElementById('gallery-intro-city').innerHTML = `${city.name}<em>${city.nameEn}</em>`;
+      document.getElementById('gallery-intro-count').textContent = data.artworks.length;
 
       // (Museum filter removed — city switching via GNB city-nav)
 
@@ -1086,7 +1020,7 @@
         section.innerHTML = `
           <div class="museum-header">
             <div class="museum-name">${museum}</div>
-            <div class="museum-meta">${data.meta.city}, ${data.meta.country}</div>
+            <div class="museum-meta">${data.meta.city}</div>
             <div class="museum-count">${artworks.length} works</div>
           </div>
           <div class="artwork-grid" id="grid-${museum.replace(/\s/g,'_')}"></div>
