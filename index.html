@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="referrer" content="no-referrer" />
   <title>GALERIE — 세계 미술관 도슨트</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Serif+KR:wght@300;400&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Sans+KR:wght@300;400&family=Noto+Serif+KR:wght@300;400&display=swap" rel="stylesheet" />
   <style>
     :root {
       --bg: #0c0b09;
@@ -26,9 +25,10 @@
     body {
       background: var(--bg);
       color: var(--cream);
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'DM Sans', 'Noto Sans KR', sans-serif;
       font-weight: 300;
       min-height: 100vh;
+      word-break: keep-all;
     }
 
     body::before {
@@ -191,7 +191,7 @@
       line-height: 1.8;
       color: var(--muted);
       max-width: 480px;
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
     }
 
@@ -273,7 +273,7 @@
       color: var(--muted);
       letter-spacing: 0.05em;
       margin-bottom: 20px;
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
     }
 
     .city-card-cta {
@@ -295,11 +295,12 @@
 
     /* Landing stats */
     .landing-stats {
-      padding: 32px 48px 56px;
+      padding: 32px 48px 64px;
       display: flex;
       gap: 48px;
       border-top: 1px solid var(--border);
       margin: 0 48px;
+      margin-bottom: 0;
     }
     .stat { display: flex; flex-direction: column; gap: 4px; }
     .stat-num {
@@ -361,7 +362,7 @@
 
     /* Gallery intro (no banner image) */
     .gallery-intro {
-      padding: 40px 48px 36px;
+      padding: 48px 48px 44px;
       border-bottom: 1px solid var(--border);
       display: flex;
       align-items: baseline;
@@ -419,7 +420,7 @@
     .hero { display: none; }
 
     /* ── MUSEUM SECTION ── */
-    .museum-section { padding: 0 48px 80px; }
+    .museum-section { padding: 60px 48px 80px; }
     .museum-header {
       display: flex;
       align-items: baseline;
@@ -496,7 +497,7 @@
       font-size: 12px;
       line-height: 1.6;
       color: rgba(232, 224, 208, 0.8);
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
     }
 
@@ -540,7 +541,7 @@
       font-size: 12px;
       line-height: 1.65;
       color: rgba(232, 224, 208, 0.55);
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
       margin-bottom: 16px;
       display: -webkit-box;
@@ -671,7 +672,7 @@
     }
     .modal-meta-val {
       color: var(--cream);
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
     }
 
@@ -703,14 +704,14 @@
       font-size: 13px;
       line-height: 1.9;
       color: rgba(232, 224, 208, 0.7);
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
     }
     .docent-look-for {
       font-size: 12px;
       line-height: 1.8;
       color: rgba(201, 168, 76, 0.75);
-      font-family: 'Noto Serif KR', serif;
+      font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
       font-weight: 300;
       padding: 14px 16px;
       border-left: 2px solid var(--gold-dim);
@@ -778,7 +779,7 @@
       .gallery-intro-city { font-size: 28px; }
       .gallery-intro-right { text-align: left; }
       .gallery-intro-count { font-size: 32px; }
-      .museum-section { padding: 0 20px 60px; }
+      .museum-section { padding: 40px 20px 60px; }
       .artwork-grid { grid-template-columns: 1fr 1fr; gap: 2px; }
       .modal { grid-template-columns: 1fr; max-height: 85vh; }
       .modal-image-side img { min-height: 240px; max-height: 300px; }
@@ -850,7 +851,7 @@
     <div class="modal" id="modal-inner">
       <button class="modal-close" id="modal-close">✕</button>
       <div class="modal-image-side">
-        <img id="modal-img" src="" alt="" referrerpolicy="no-referrer" />
+        <img id="modal-img" src="" alt="" />
         <div class="modal-image-overlay"></div>
       </div>
       <div class="modal-content-side">
@@ -1033,7 +1034,7 @@
           const isPriority = work.tags?.includes('필수');
           card.innerHTML = `
             <div class="card-image">
-              <img src="${work.image_url}" alt="${work.title}" loading="lazy" referrerpolicy="no-referrer" />
+              <img src="${work.image_url}" alt="${work.title}" loading="lazy" />
               <div class="card-overlay">
                 <div class="card-overlay-text">${work.docent.look_for.slice(0, 80)}…</div>
               </div>
