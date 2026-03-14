@@ -84,9 +84,38 @@
       gap: 8px;
     }
 
-    .museum-filter {
+    /* City nav in GNB — always visible */
+    .city-nav {
       display: flex;
       gap: 4px;
+    }
+
+    .city-nav-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 6px 18px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .city-nav-btn:hover {
+      border-color: var(--gold-dim);
+      color: var(--gold);
+      background: rgba(201, 168, 76, 0.05);
+    }
+    .city-nav-btn.active {
+      border-color: var(--gold);
+      color: var(--gold);
+      background: rgba(201, 168, 76, 0.08);
+    }
+
+    /* Museum filter inside gallery — kept for reference, hidden by default */
+    .museum-filter {
+      display: none;
     }
 
     .filter-btn {
@@ -149,7 +178,7 @@
 
     .landing-h1 {
       font-family: 'Cormorant Garamond', serif;
-      font-size: clamp(52px, 7vw, 96px);
+      font-size: clamp(32px, 4.5vw, 56px);
       font-weight: 300;
       line-height: 1.0;
       color: var(--cream);
@@ -821,7 +850,7 @@
   <header id="main-header">
     <div class="logo" id="logo-btn">Galerie <span id="header-subtitle">세계 미술관 도슨트</span></div>
     <div class="header-right">
-      <div class="museum-filter" id="museum-filter" style="display:none"></div>
+      <nav class="city-nav" id="city-nav"></nav>
     </div>
   </header>
 
@@ -923,7 +952,8 @@
         country: '프랑스',
         file: 'paris.json',
         desc: '루브르, 오르세, 오랑주리',
-        bg: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/800px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg'
+        cardBg: 'images/paris-card.jpg',
+        bannerBg: 'images/paris-banner.jpg'
       },
       {
         id: 'seoul',
@@ -932,7 +962,8 @@
         country: '대한민국',
         file: 'seoul.json',
         desc: '국립중앙박물관, 리움, 국립현대미술관',
-        bg: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/N_Seoul_Tower_from_Namsan_Mountain.jpg/800px-N_Seoul_Tower_from_Namsan_Mountain.jpg'
+        cardBg: 'images/seoul-card.jpg',
+        bannerBg: 'images/seoul-banner.jpg'
       },
       {
         id: 'newyork',
@@ -941,7 +972,8 @@
         country: '미국',
         file: 'newyork.json',
         desc: '메트, MoMA, 구겐하임',
-        bg: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Southwest_corner_of_Central_Park%2C_looking_east%2C_NYC.jpg/800px-Southwest_corner_of_Central_Park%2C_looking_east%2C_NYC.jpg'
+        cardBg: 'images/newyork-card.jpg',
+        bannerBg: 'images/newyork-banner.jpg'
       }
     ];
 
@@ -951,6 +983,22 @@
 
     // ── LANDING ──
     function renderLanding() {
+      // Build GNB city nav
+      const nav = document.getElementById('city-nav');
+      nav.innerHTML = '';
+      CITIES.forEach(city => {
+        const btn = document.createElement('button');
+        btn.className = 'city-nav-btn';
+        btn.textContent = city.name;
+        btn.dataset.cityId = city.id;
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.city-nav-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          loadCity(city);
+        });
+        nav.appendChild(btn);
+      });
+
       const grid = document.getElementById('city-grid');
       grid.innerHTML = '';
       CITIES.forEach((city, i) => {
@@ -958,7 +1006,7 @@
         card.className = 'city-card';
         card.style.animationDelay = `${i * 80}ms`;
         card.innerHTML = `
-          <div class="city-card-bg" style="background-image:url('${city.bg}')"></div>
+          <div class="city-card-bg" style="background-image:url('${city.cardBg}')"></div>
           <div class="city-card-overlay"></div>
           <div class="city-card-content">
             <span class="city-card-num">0${i + 1}</span>
@@ -992,6 +1040,11 @@
     function showGallery(city, data) {
       const galleryEl = document.getElementById('gallery');
 
+      // Highlight active city in GNB
+      document.querySelectorAll('.city-nav-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.cityId === city.id);
+      });
+
       // Show gallery below landing
       galleryEl.classList.add('active');
 
@@ -1002,28 +1055,14 @@
 
       // Banner
       const museums = [...new Set(data.artworks.map(a => a.museum))];
-      document.getElementById('gallery-banner-bg').style.backgroundImage = `url('${city.bg}')`;
+      document.getElementById('gallery-banner-bg').style.backgroundImage = `url('${city.bannerBg}')`;
       document.getElementById('gallery-banner-tag').textContent = `${city.country} · ${museums.length}개 미술관`;
       document.getElementById('gallery-banner-city').innerHTML = `${city.name}<br><em>${city.nameEn}</em>`;
       document.getElementById('gallery-banner-count').textContent = data.artworks.length;
       document.getElementById('gallery-banner-museums').innerHTML =
         museums.map(m => `<div class="gallery-banner-museum-item">${m}</div>`).join('');
 
-      // Museum filter
-      const filterEl = document.getElementById('museum-filter');
-      filterEl.style.display = 'flex';
-      filterEl.innerHTML = `<button class="filter-btn active" data-filter="all">전체</button>` +
-        museums.map(m => `<button class="filter-btn" data-filter="${m}">${m}</button>`).join('');
-      filterEl.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-          filterEl.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-          btn.classList.add('active');
-          const f = btn.dataset.filter;
-          document.querySelectorAll('.museum-section').forEach(s => {
-            s.classList.toggle('hidden', f !== 'all' && s.dataset.museum !== f);
-          });
-        });
-      });
+      // (Museum filter removed — city switching via GNB city-nav)
 
       // Content
       renderGalleryContent(data);
@@ -1088,7 +1127,7 @@
     function goToLanding() {
       document.getElementById('gallery').classList.remove('active');
       document.getElementById('header-subtitle').textContent = '세계 미술관 도슨트';
-      document.getElementById('museum-filter').style.display = 'none';
+      document.querySelectorAll('.city-nav-btn').forEach(b => b.classList.remove('active'));
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
